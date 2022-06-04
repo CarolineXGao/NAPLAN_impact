@@ -1,0 +1,1369 @@
+"ID","Cohort_ID","Year","Grade","Domain","Government","Exposure_group","N_student","P_girls","ICSEA","ScoreDif","SE"
+1,3,2008,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",1269,0.504334121355398,1007,-23.9543185282481,5.46419889930025
+1,4,2009,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",1266,0.4913112164297,1007,-25.4495927489052,6.25313889712797
+1,5,2010,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",1191,0.482787573467674,954,-37.7181879085976,5.8073566502102
+1,6,2011,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",1146,0.465968586387435,955,-32.0140139255085,6.12202960204709
+1,7,2012,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",1061,0.471253534401508,952,-34.2681293677414,6.16884319336826
+1,8,2013,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",1034,0.477756286266925,942,-41.026004437833,6.31991971255367
+1,9,2014,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",984,0.484756097560976,943,-32.1851358573724,6.31146270404267
+1,10,2015,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",955,0.518324607329843,948,-38.0451324184883,6.11719822301158
+1,11,2016,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",917,0.523446019629226,947,-33.8170228312259,5.96718747511857
+1,12,2017,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",877,0.507411630558723,941,-31.4519320882805,5.84212693623035
+1,13,2018,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",918,0.517429193899782,952,-33.0591956830138,6.05643409302858
+1,1,2008,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",1269,0.504334121355398,1007,-30.3650800952532,5.06907124122089
+1,2,2009,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",1266,0.4913112164297,1007,-21.8248593574569,4.72570401746306
+1,3,2010,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",1191,0.482787573467674,954,-12.6230070464793,4.79333182276961
+1,4,2011,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",1146,0.465968586387435,955,-41.6760308988298,6.04949613442119
+1,5,2012,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",1061,0.471253534401508,952,-35.0038111331801,6.16443408708921
+1,6,2013,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",1034,0.477756286266925,942,-26.8044413896273,5.78163337373094
+1,7,2014,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",984,0.484756097560976,943,-41.9695692241716,7.40655863614676
+1,8,2015,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",955,0.518324607329843,948,-38.191750662522,6.03193942049688
+1,9,2016,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",917,0.523446019629226,947,-26.2832915268456,5.81823558014932
+1,10,2017,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",877,0.507411630558723,941,-31.9044977335367,5.76072730502809
+1,11,2018,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",918,0.517429193899782,952,-27.7696668984799,5.44483973412092
+2,16,2008,"Year 7","Grammar and Punctuation","No","Moderate exposure",1337,0.535527299925206,1020,-0.184175775323263,5.32446379102155
+2,17,2009,"Year 7","Grammar and Punctuation","No","Moderate exposure",1296,0.537808641975309,1020,6.28780382835554,5.47074736234936
+2,18,2010,"Year 7","Grammar and Punctuation","No","Moderate exposure",1234,0.534035656401945,1003,11.7934058893872,5.61120317083213
+2,19,2011,"Year 7","Grammar and Punctuation","No","Moderate exposure",1198,0.51669449081803,1009,-1.75541923323489,5.62829192728073
+2,20,2012,"Year 7","Grammar and Punctuation","No","Moderate exposure",1204,0.498338870431894,1001,4.64433581272359,5.26618268228223
+2,21,2013,"Year 7","Grammar and Punctuation","No","Moderate exposure",1180,0.492372881355932,1007,15.4123313311692,6.00420843750301
+2,22,2014,"Year 7","Grammar and Punctuation","No","Moderate exposure",1131,0.470380194518126,1009,-3.20311091578995,5.93029756350186
+2,23,2015,"Year 7","Grammar and Punctuation","No","Moderate exposure",1169,0.494439692044482,1016,1.06874070981879,5.33618296258838
+2,24,2016,"Year 7","Grammar and Punctuation","No","Moderate exposure",1180,0.483050847457627,1013,-2.72098990872866,5.33585753583529
+2,25,2017,"Year 7","Grammar and Punctuation","No","Moderate exposure",1206,0.479270315091211,1018,0.664223460541165,4.97244575167416
+2,26,2018,"Year 7","Grammar and Punctuation","No","Moderate exposure",1185,0.487763713080169,1022,5.10624246074436,5.31821314122733
+2,14,2008,"Year 9","Grammar and Punctuation","No","Moderate exposure",1337,0.535527299925206,1020,15.450053500523,5.05906107471313
+2,15,2009,"Year 9","Grammar and Punctuation","No","Moderate exposure",1296,0.537808641975309,1020,-0.941216028900816,5.0979884081074
+2,16,2010,"Year 9","Grammar and Punctuation","No","Moderate exposure",1234,0.534035656401945,1003,0.347964775238291,5.13815516758212
+2,17,2011,"Year 9","Grammar and Punctuation","No","Moderate exposure",1198,0.51669449081803,1009,-0.249585483064587,5.10376955443296
+2,18,2012,"Year 9","Grammar and Punctuation","No","Moderate exposure",1204,0.498338870431894,1001,-0.482761216559315,6.08441722902655
+2,19,2013,"Year 9","Grammar and Punctuation","No","Moderate exposure",1180,0.492372881355932,1007,-10.1503500175111,5.9173280483392
+2,20,2014,"Year 9","Grammar and Punctuation","No","Moderate exposure",1131,0.470380194518126,1009,0.387809414418784,5.14888277698579
+2,21,2015,"Year 9","Grammar and Punctuation","No","Moderate exposure",1169,0.494439692044482,1016,3.81604751939866,6.05565503004272
+2,22,2016,"Year 9","Grammar and Punctuation","No","Moderate exposure",1180,0.483050847457627,1013,-6.96237328750989,5.5499182010017
+2,23,2017,"Year 9","Grammar and Punctuation","No","Moderate exposure",1206,0.479270315091211,1018,2.2556147897554,5.39514753930149
+2,24,2018,"Year 9","Grammar and Punctuation","No","Moderate exposure",1185,0.487763713080169,1022,-6.28831144077388,5.683177740304
+3,29,2008,"Year 7","Grammar and Punctuation","Yes","No to low exposure",739,0.491204330175913,1008,-10.6853956257614,7.11069978857862
+3,30,2009,"Year 7","Grammar and Punctuation","Yes","No to low exposure",712,0.497191011235955,1008,-10.6983293633107,7.23404667093235
+3,31,2010,"Year 7","Grammar and Punctuation","Yes","No to low exposure",716,0.486033519553073,952,-21.0219833718057,7.3483698773834
+3,32,2011,"Year 7","Grammar and Punctuation","Yes","No to low exposure",703,0.493598862019915,952,-18.9931134986212,7.04344062611708
+3,33,2012,"Year 7","Grammar and Punctuation","Yes","No to low exposure",671,0.497764530551416,949,-15.2908291701461,8.21333422002731
+3,34,2013,"Year 7","Grammar and Punctuation","Yes","No to low exposure",705,0.526241134751773,927,-21.5148473035937,8.25658863674933
+3,35,2014,"Year 7","Grammar and Punctuation","Yes","No to low exposure",704,0.504261363636364,932,-16.3556204823029,7.58097034135688
+3,36,2015,"Year 7","Grammar and Punctuation","Yes","No to low exposure",756,0.503968253968254,931,-18.821255648531,7.575419483682
+3,37,2016,"Year 7","Grammar and Punctuation","Yes","No to low exposure",744,0.486559139784946,941,-32.4792728169251,7.29897583987546
+3,38,2017,"Year 7","Grammar and Punctuation","Yes","No to low exposure",757,0.483487450462351,932,-25.1809472452511,7.84320217145025
+3,39,2018,"Year 7","Grammar and Punctuation","Yes","No to low exposure",768,0.47265625,942,-10.6139244156558,7.48336346785578
+3,27,2008,"Year 9","Grammar and Punctuation","Yes","No to low exposure",739,0.491204330175913,1008,-18.9044384441513,7.45991685585643
+3,28,2009,"Year 9","Grammar and Punctuation","Yes","No to low exposure",712,0.497191011235955,1008,-1.50431594883999,7.37140027644403
+3,29,2010,"Year 9","Grammar and Punctuation","Yes","No to low exposure",716,0.486033519553073,952,-6.31942817532818,7.05250031080482
+3,30,2011,"Year 9","Grammar and Punctuation","Yes","No to low exposure",703,0.493598862019915,952,-11.7804338838472,8.12599486399745
+3,31,2012,"Year 9","Grammar and Punctuation","Yes","No to low exposure",671,0.497764530551416,949,-21.1676549510641,7.13123043168393
+3,32,2013,"Year 9","Grammar and Punctuation","Yes","No to low exposure",705,0.526241134751773,927,-8.76849188776888,6.90190848934999
+3,33,2014,"Year 9","Grammar and Punctuation","Yes","No to low exposure",704,0.504261363636364,932,-24.9805231159586,7.76771645248239
+3,34,2015,"Year 9","Grammar and Punctuation","Yes","No to low exposure",756,0.503968253968254,931,-41.7591602386876,7.48508466257516
+3,35,2016,"Year 9","Grammar and Punctuation","Yes","No to low exposure",744,0.486559139784946,941,6.00794761658257,7.42630393511359
+3,36,2017,"Year 9","Grammar and Punctuation","Yes","No to low exposure",757,0.483487450462351,932,-30.2709992524792,7.41728445007145
+3,37,2018,"Year 9","Grammar and Punctuation","Yes","No to low exposure",768,0.47265625,942,-42.0578292871662,7.57778008992583
+4,42,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",70,0.485714285714286,1017,35.8781352386979,30.2443843254009
+4,43,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",80,0.4875,1017,-70.4426366027343,23.1539081267197
+4,44,2010,"Year 3","Grammar and Punctuation","Yes","No to low exposure",77,0.480519480519481,938,26.5019746403212,26.7279916794581
+4,45,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",74,0.418918918918919,945,-53.3602185569992,32.6542434836179
+4,46,2012,"Year 3","Grammar and Punctuation","Yes","No to low exposure",68,0.411764705882353,946,-24.4372687164138,26.7501032487089
+4,47,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",69,0.376811594202899,925,-25.1987049574623,25.5774953779339
+4,48,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",65,0.446153846153846,933,-58.42077374422,30.8500617605912
+4,49,2015,"Year 3","Grammar and Punctuation","Yes","No to low exposure",53,0.528301886792453,951,-22.1561198251116,33.1727432724268
+4,50,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",50,0.4,932,-25.4835988944251,30.5683721788364
+4,51,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",52,0.346153846153846,947,-43.1041846974649,27.1020419123784
+4,40,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",70,0.485714285714286,1017,-26.0365160562582,23.6250766153372
+4,41,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",80,0.4875,1017,0.636030442776981,26.7093156369555
+4,42,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",77,0.480519480519481,938,14.818944899673,24.9505580402734
+4,43,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",74,0.418918918918919,945,-27.3419429024909,23.1491997032875
+4,44,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",68,0.411764705882353,946,-8.29118493865096,25.1849880878794
+4,45,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",69,0.376811594202899,925,-48.8007928343623,30.5109433327889
+4,46,2014,"Year 5","Grammar and Punctuation","Yes","No to low exposure",65,0.446153846153846,933,-38.3807935672656,27.0151004484897
+4,47,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",53,0.528301886792453,951,-11.0237689005267,27.1149067059748
+4,49,2017,"Year 5","Grammar and Punctuation","Yes","No to low exposure",52,0.346153846153846,947,-10.465956646026,22.6555656295909
+4,50,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",58,0.379310344827586,963,20.0518896328752,28.473488556787
+5,54,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",577,0.487001733102253,1069,4.66203827506068,8.94609314968702
+5,55,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",549,0.502732240437158,1069,-29.3440784559279,9.86215952637429
+5,56,2010,"Year 3","Grammar and Punctuation","Yes","No to low exposure",525,0.491428571428571,1014,-21.4783563136303,9.4527024599617
+5,57,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",460,0.493478260869565,1014,-33.2396768113527,11.7717382286571
+5,58,2012,"Year 3","Grammar and Punctuation","Yes","No to low exposure",421,0.486935866983373,1015,-19.4557857707569,12.0077217892759
+5,59,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",406,0.485221674876847,1003,-41.2691380953705,10.7700767260344
+5,60,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",378,0.465608465608466,1014,5.51552601676191,11.9641042398901
+5,61,2015,"Year 3","Grammar and Punctuation","Yes","No to low exposure",371,0.436657681940701,990,-54.8784511595115,11.1467210016403
+5,62,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",380,0.468421052631579,1011,-26.8669372262425,12.2162374930116
+5,63,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",377,0.469496021220159,1001,-10.3594534475994,15.5460969797679
+5,64,2018,"Year 3","Grammar and Punctuation","Yes","No to low exposure",399,0.476190476190476,997,-7.06374050690453,11.584371583861
+5,52,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",577,0.487001733102253,1069,9.29494547309582,9.45178721820877
+5,53,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",549,0.502732240437158,1069,-0.152226630856773,8.56674107915963
+5,54,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",525,0.491428571428571,1014,5.64814992564863,8.77715731883113
+5,55,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",460,0.493478260869565,1014,-6.13927590245071,10.4959864328085
+5,56,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",421,0.486935866983373,1015,-1.09279134309781,10.4132345041567
+5,57,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",406,0.485221674876847,1003,-0.421517858126765,10.0950467449911
+5,58,2014,"Year 5","Grammar and Punctuation","Yes","No to low exposure",378,0.465608465608466,1014,-23.4011797104208,10.4324391737149
+5,59,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",371,0.436657681940701,990,-32.3597955046294,10.6522048110584
+5,60,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",380,0.468421052631579,1011,1.57611170103959,10.364093720694
+5,61,2017,"Year 5","Grammar and Punctuation","Yes","No to low exposure",377,0.469496021220159,1001,-22.7487834036416,11.4923216465248
+5,62,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",399,0.476190476190476,997,-20.2590999090903,10.7217938473042
+6,67,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",108,0.555555555555556,1030,-2.45803748524857,21.2610055228184
+6,68,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",105,0.580952380952381,1030,-38.7150015375966,21.4125849030222
+6,69,2010,"Year 3","Grammar and Punctuation","Yes","No to low exposure",97,0.608247422680412,1013,-19.2450522772214,26.7779180803937
+6,70,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",100,0.54,1008,-13.3886055688585,24.1484812973045
+6,71,2012,"Year 3","Grammar and Punctuation","Yes","No to low exposure",102,0.529411764705882,996,-18.2306420173548,21.643169523119
+6,72,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",87,0.471264367816092,997,-25.0948238646284,26.8097173172746
+6,73,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",95,0.442105263157895,967,-40.4521746866318,21.0481247573488
+6,74,2015,"Year 3","Grammar and Punctuation","Yes","No to low exposure",88,0.477272727272727,968,4.00827840621218,21.6686395241851
+6,75,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",88,0.488636363636364,957,-49.9384578706229,27.0543100896889
+6,76,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",96,0.479166666666667,965,-74.417924923048,22.4731484115825
+6,77,2018,"Year 3","Grammar and Punctuation","Yes","No to low exposure",85,0.494117647058824,976,4.6213054081012,30.5990742701841
+6,65,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",108,0.555555555555556,1030,-20.9317916499298,20.8927124448077
+6,66,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",105,0.580952380952381,1030,13.9924345350057,19.3082859941418
+6,67,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",97,0.608247422680412,1013,41.664148636082,21.278513790205
+6,68,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",100,0.54,1008,-19.0410497346092,21.1508781076853
+6,69,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",102,0.529411764705882,996,28.5943871068781,22.999415261439
+6,70,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",87,0.471264367816092,997,0.734823920747661,28.5542329611974
+6,71,2014,"Year 5","Grammar and Punctuation","Yes","No to low exposure",95,0.442105263157895,967,4.76475452260996,21.2359388355724
+6,72,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",88,0.477272727272727,968,-1.34624810691111,27.3576576064584
+6,73,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",88,0.488636363636364,957,-53.7305150134123,21.0792815448373
+6,74,2017,"Year 5","Grammar and Punctuation","Yes","No to low exposure",96,0.479166666666667,965,3.43927279992175,21.2073104916809
+6,75,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",85,0.494117647058824,976,-38.0112410698024,26.8115683125429
+7,80,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",183,0.46448087431694,1035,-17.3678122031868,18.1316161069448
+7,81,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",150,0.46,1035,-2.15247024192857,18.2938544631693
+7,82,2010,"Year 3","Grammar and Punctuation","Yes","No to low exposure",150,0.433333333333333,969,-9.49000413930529,21.2416712335137
+7,83,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",142,0.401408450704225,967,-43.2492059423351,22.3582778841888
+7,84,2012,"Year 3","Grammar and Punctuation","Yes","No to low exposure",154,0.435064935064935,961,-38.8360960196003,21.3780808947247
+7,85,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",158,0.424050632911392,947,-22.461969294489,23.0458394441287
+7,86,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",166,0.463855421686747,954,-48.3825434488828,16.16371875174
+7,87,2015,"Year 3","Grammar and Punctuation","Yes","No to low exposure",175,0.485714285714286,948,34.182289864998,16.0264301285448
+7,88,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",181,0.486187845303867,947,6.24287301638365,18.0843095637122
+7,89,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",190,0.478947368421053,942,-41.46936241521,15.4829861372401
+7,90,2018,"Year 3","Grammar and Punctuation","Yes","No to low exposure",182,0.489010989010989,951,-30.6989611342318,16.3607064766205
+7,78,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",183,0.46448087431694,1035,5.84351036655687,17.1385016670323
+7,79,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",150,0.46,1035,13.8528721638972,13.5781246105522
+7,80,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",150,0.433333333333333,969,-0.158117461301461,17.3708229200859
+7,81,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",142,0.401408450704225,967,-25.3473456169064,15.401849142245
+7,82,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",154,0.435064935064935,961,-24.3963984451648,19.4661947406241
+7,83,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",158,0.424050632911392,947,-20.3912283529595,17.2632800488974
+7,84,2014,"Year 5","Grammar and Punctuation","Yes","No to low exposure",166,0.463855421686747,954,-30.2267715246435,16.8987527966402
+7,85,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",175,0.485714285714286,948,-39.6048666331572,19.6923627227416
+7,86,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",181,0.486187845303867,947,-7.74914930365973,15.2986383473015
+7,87,2017,"Year 5","Grammar and Punctuation","Yes","No to low exposure",190,0.478947368421053,942,-24.0565056414296,14.9920569078822
+7,88,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",182,0.489010989010989,951,-8.26681162867716,15.7336954848292
+8,93,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",117,0.461538461538462,1010,-2.81472204014285,21.4123313447879
+8,94,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",107,0.504672897196262,1010,41.157376930146,22.3774211213153
+8,95,2010,"Year 3","Grammar and Punctuation","Yes","No to low exposure",100,0.55,963,24.8764957344517,24.3250882594413
+8,96,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",107,0.504672897196262,964,89.6845064994433,22.5583858345243
+8,97,2012,"Year 3","Grammar and Punctuation","Yes","No to low exposure",108,0.509259259259259,960,5.20746237679005,18.1737363533489
+8,98,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",109,0.541284403669725,949,-39.7583543805357,23.5145572167039
+8,99,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",113,0.530973451327434,977,8.69635113614047,22.3843642538245
+8,100,2015,"Year 3","Grammar and Punctuation","Yes","No to low exposure",115,0.539130434782609,960,-29.1372015143704,23.7338902173451
+8,101,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",114,0.491228070175439,967,2.62605720750438,22.847582188124
+8,102,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",109,0.458715596330275,963,37.2563656891012,23.2298692882055
+8,103,2018,"Year 3","Grammar and Punctuation","Yes","No to low exposure",108,0.453703703703704,955,5.19932899098711,20.8236193289641
+8,91,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",117,0.461538461538462,1010,19.6554920890875,23.9394422474969
+8,92,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",107,0.504672897196262,1010,11.4557680687113,19.4777070685104
+8,93,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",100,0.55,963,-6.93795251988505,22.0647670604081
+8,94,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",107,0.504672897196262,964,-4.73018396579183,19.4674991451303
+8,95,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",108,0.509259259259259,960,-5.1763863559649,23.0049534783543
+8,96,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",109,0.541284403669725,949,1.92037768308055,19.9321071889584
+8,97,2014,"Year 5","Grammar and Punctuation","Yes","No to low exposure",113,0.530973451327434,977,29.8998956572751,19.7366416986162
+8,98,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",115,0.539130434782609,960,-15.3009593336622,24.8438066670725
+8,99,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",114,0.491228070175439,967,25.4593524771705,21.253238174799
+8,100,2017,"Year 5","Grammar and Punctuation","Yes","No to low exposure",109,0.458715596330275,963,23.5988961687362,20.5592852424392
+8,101,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",108,0.453703703703704,955,-1.99062842112483,20.2991140579362
+9,106,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",86,0.453488372093023,1023,-54.7126760455601,25.2221381305289
+9,107,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",87,0.482758620689655,1023,21.4448250801771,21.3238994158998
+9,108,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",83,0.421686746987952,963,-57.531329941015,32.7914452088835
+9,109,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",75,0.453333333333333,966,-11.6631818891987,26.9253587230392
+9,110,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",76,0.460526315789474,960,-26.2767071209961,21.4532881358995
+9,111,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",64,0.46875,959,8.77023206282647,30.8340687336558
+9,112,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",60,0.433333333333333,960,-19.2831603494966,36.1195563128489
+9,113,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",62,0.435483870967742,978,28.46432352163,28.6432561415477
+9,114,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",61,0.475409836065574,945,31.7083082460256,27.2596793763848
+9,115,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",57,0.508771929824561,976,-47.9164037503096,35.9797336008789
+9,116,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",58,0.482758620689655,978,18.2567677456889,30.5522513059727
+9,104,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",86,0.453488372093023,1023,14.2136431756376,20.3803065581089
+9,105,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",87,0.482758620689655,1023,-15.0986817157822,20.4514202883571
+9,106,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",83,0.421686746987952,963,30.7168177023556,30.8019784416397
+9,107,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",75,0.453333333333333,966,0.465894634275428,19.3670838180182
+9,108,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",76,0.460526315789474,960,-25.4387808247075,31.0066471984125
+9,109,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",64,0.46875,959,-0.300414277973131,23.8786722173361
+9,110,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",60,0.433333333333333,960,-39.5816104574235,22.3820934970417
+9,111,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",62,0.435483870967742,978,10.2859159719124,33.7128610411567
+9,112,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",61,0.475409836065574,945,-68.586890898861,23.9733283654526
+9,113,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",57,0.508771929824561,976,65.8730465876839,25.1301319817579
+9,114,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",58,0.482758620689655,978,5.98322421858055,26.6429096593606
+10,119,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",296,0.442567567567568,1015,-29.1591437563397,13.8745641102368
+10,120,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",287,0.449477351916376,1015,-19.4796930431853,16.1861947689752
+10,121,2010,"Year 3","Grammar and Punctuation","Yes","No to low exposure",296,0.472972972972973,966,-22.4616548179508,13.1502825592539
+10,122,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",302,0.486754966887417,966,-31.0512418349282,14.947905229649
+10,123,2012,"Year 3","Grammar and Punctuation","Yes","No to low exposure",285,0.508771929824561,968,-6.92802999797021,15.0147125277615
+10,124,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",274,0.496350364963504,974,-5.04331523153353,15.0402531009563
+10,125,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",281,0.512455516014235,973,18.8721008403616,14.0315584186983
+10,126,2015,"Year 3","Grammar and Punctuation","Yes","No to low exposure",299,0.518394648829431,975,-22.4282695541704,13.0737882422535
+10,127,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",303,0.534653465346535,973,0.94504454062249,14.8893916597636
+10,128,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",315,0.533333333333333,970,-9.9415737322041,13.9405621860581
+10,129,2018,"Year 3","Grammar and Punctuation","Yes","No to low exposure",313,0.536741214057508,961,-8.30041008384099,12.8640024978612
+10,117,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",296,0.442567567567568,1015,-27.2175273496454,11.2103201468593
+10,118,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",287,0.449477351916376,1015,-6.45532484235586,11.4157273218143
+10,119,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",296,0.472972972972973,966,-14.7340370756188,12.5230475997133
+10,120,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",302,0.486754966887417,966,-33.3712506322703,13.6764331930745
+10,121,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",285,0.508771929824561,968,-18.7958187741061,12.2803530317746
+10,122,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",274,0.496350364963504,974,-24.1255160742382,13.0156590454393
+10,123,2014,"Year 5","Grammar and Punctuation","Yes","No to low exposure",281,0.512455516014235,973,-10.0101771838812,13.714945180561
+10,124,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",299,0.518394648829431,975,-8.11243279530634,14.7548050501594
+10,125,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",303,0.534653465346535,973,-16.5722274758046,12.1009707438455
+10,126,2017,"Year 5","Grammar and Punctuation","Yes","No to low exposure",315,0.533333333333333,970,-9.77688394091867,13.3749203945778
+10,127,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",313,0.536741214057508,961,-5.53741195883668,14.0979846782678
+11,132,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",121,0.43801652892562,983,9.85536975769728,20.8043757015982
+11,133,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",130,0.430769230769231,983,-5.96717947695358,18.2217132757717
+11,134,2010,"Year 3","Grammar and Punctuation","Yes","No to low exposure",137,0.430656934306569,969,-24.1470582877601,21.5526810230623
+11,135,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",147,0.462585034013605,973,8.64540894383689,21.2768822218937
+11,136,2012,"Year 3","Grammar and Punctuation","Yes","No to low exposure",152,0.460526315789474,973,-36.6420745799515,21.1985080266673
+11,137,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",167,0.479041916167665,966,2.31716262293823,21.0590091208617
+11,138,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",175,0.525714285714286,972,25.4199111158836,18.3630766531369
+11,139,2015,"Year 3","Grammar and Punctuation","Yes","No to low exposure",194,0.489690721649485,965,-34.8143637458182,16.0952960526652
+11,140,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",193,0.507772020725389,954,-42.0956054135893,16.5309432839582
+11,141,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",185,0.524324324324324,969,-9.03460304203206,16.4725469924685
+11,142,2018,"Year 3","Grammar and Punctuation","Yes","No to low exposure",197,0.49238578680203,973,15.9754198750008,14.7294914250947
+11,130,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",121,0.43801652892562,983,24.2145174729965,17.0911568064361
+11,131,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",130,0.430769230769231,983,3.52600846571699,20.3931423426557
+11,132,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",137,0.430656934306569,969,-6.43656445151032,19.2801350456233
+11,133,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",147,0.462585034013605,973,-6.19664164124013,17.1708751986754
+11,134,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",152,0.460526315789474,973,-6.67124344308229,19.7143132518783
+11,135,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",167,0.479041916167665,966,-5.9531556762935,19.3353216242317
+11,136,2014,"Year 5","Grammar and Punctuation","Yes","No to low exposure",175,0.525714285714286,972,11.4556871759616,16.7945607808918
+11,137,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",194,0.489690721649485,965,-6.7425052606828,17.1689070501244
+11,138,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",193,0.507772020725389,954,-19.5295766582394,17.2379162654901
+11,139,2017,"Year 5","Grammar and Punctuation","Yes","No to low exposure",185,0.524324324324324,969,-32.8095054958161,17.4172057258031
+11,140,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",197,0.49238578680203,973,-19.5668794248686,17.2272554982957
+12,145,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",64,0.453125,1010,-5.71008001067831,35.8813626337583
+12,146,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",69,0.478260869565217,1010,2.39647333979023,24.7005531986442
+12,147,2010,"Year 3","Grammar and Punctuation","Yes","No to low exposure",70,0.428571428571429,1021,16.7237260437693,22.5179372470588
+12,148,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",81,0.444444444444444,1021,-31.1284319124909,26.9725048076972
+12,149,2012,"Year 3","Grammar and Punctuation","Yes","No to low exposure",91,0.428571428571429,1012,22.4017470542681,24.5614411841484
+12,150,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",101,0.455445544554455,990,-61.6429518445951,23.6105307886225
+12,151,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",101,0.495049504950495,998,-17.624017383015,21.2901830137477
+12,152,2015,"Year 3","Grammar and Punctuation","Yes","No to low exposure",103,0.475728155339806,982,25.4294334554079,21.0772037547847
+12,153,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",99,0.414141414141414,987,34.6572633569577,21.0430215365241
+12,154,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",101,0.386138613861386,973,-14.293924337521,23.2836352928999
+12,155,2018,"Year 3","Grammar and Punctuation","Yes","No to low exposure",89,0.48314606741573,982,-34.3673711170415,25.9815423069228
+12,143,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",64,0.453125,1010,0.138345503980134,26.6244165311666
+12,144,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",69,0.478260869565217,1010,23.9036234376007,26.6952385816171
+12,145,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",70,0.428571428571429,1021,-36.0915536885117,28.3181882274545
+12,146,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",81,0.444444444444444,1021,3.37149387374993,21.0960452843117
+12,147,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",91,0.428571428571429,1012,28.7052011507847,20.6979113072294
+12,148,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",101,0.455445544554455,990,-16.2589574146253,20.6324265133401
+12,149,2014,"Year 5","Grammar and Punctuation","Yes","No to low exposure",101,0.495049504950495,998,3.46399986920416,22.9297272697699
+12,150,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",103,0.475728155339806,982,-30.2933738332089,20.2378655233433
+12,151,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",99,0.414141414141414,987,-17.0463794339448,17.5669800881753
+12,152,2017,"Year 5","Grammar and Punctuation","Yes","No to low exposure",101,0.386138613861386,973,-13.7262873206151,19.6394189414906
+12,153,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",89,0.48314606741573,982,25.4523922005467,19.5858951808449
+13,157,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",43,0.418604651162791,977,32.8468447502953,28.5348582678432
+13,158,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",47,0.404255319148936,977,50.4488460185662,30.2768553227756
+13,160,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",47,0.382978723404255,1009,75.4183443076038,32.6655132059302
+13,161,2012,"Year 3","Grammar and Punctuation","Yes","No to low exposure",49,0.387755102040816,1013,-0.654473201669403,28.5294532205862
+13,162,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",44,0.409090909090909,1015,-5.37234640986841,36.0997034007844
+13,163,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",47,0.382978723404255,1009,19.1116189708751,30.7214511854448
+13,164,2015,"Year 3","Grammar and Punctuation","Yes","No to low exposure",49,0.36734693877551,984,37.3332410385558,27.02885500144
+13,165,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",38,0.5,992,21.2896407127008,30.4153816391971
+13,156,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",43,0.418604651162791,977,-20.4974242376237,23.1418737695069
+13,157,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",40,0.35,1009,73.6407335874735,23.7522484359075
+13,158,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",47,0.382978723404255,1009,4.21364906889932,30.7966839428026
+13,159,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",49,0.387755102040816,1013,70.9503516164172,33.3684638604463
+13,160,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",44,0.409090909090909,1015,26.416973296761,28.5078901586731
+13,161,2014,"Year 5","Grammar and Punctuation","Yes","No to low exposure",47,0.382978723404255,1009,21.0707027357177,28.6490894221568
+13,162,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",49,0.36734693877551,984,10.5139138310666,28.4163132851256
+13,163,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",41,0.439024390243902,996,54.8004204556286,23.9774987803278
+13,164,2017,"Year 5","Grammar and Punctuation","Yes","No to low exposure",38,0.5,992,82.6066265728324,27.2877516714849
+14,168,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",125,0.528,1029,-35.5365904354134,21.6469278874656
+14,169,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",139,0.589928057553957,1029,-22.5499891547678,18.3968855283452
+14,170,2010,"Year 3","Grammar and Punctuation","Yes","No to low exposure",129,0.589147286821705,990,-9.85059903267062,22.4906136374679
+14,171,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",115,0.521739130434783,988,-42.9354120952697,21.2538846132969
+14,172,2012,"Year 3","Grammar and Punctuation","Yes","No to low exposure",112,0.526785714285714,987,-24.8985552974265,20.9206316324439
+14,173,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",121,0.495867768595041,978,-27.7674580614789,20.9409638799389
+14,174,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",130,0.515384615384615,991,-10.0140512400811,21.1951979635011
+14,175,2015,"Year 3","Grammar and Punctuation","Yes","No to low exposure",120,0.491666666666667,986,24.6157612756833,23.7879529966684
+14,176,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",124,0.491935483870968,978,-9.56157110248759,20.9539202456947
+14,177,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",121,0.495867768595041,944,-149.074700524417,22.5667550772
+14,178,2018,"Year 3","Grammar and Punctuation","Yes","No to low exposure",123,0.471544715447154,963,-15.8028270601342,20.787955659937
+14,166,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",125,0.528,1029,3.70894003352226,18.9920666521157
+14,167,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",139,0.589928057553957,1029,4.73364616925294,19.3975592479046
+14,168,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",129,0.589147286821705,990,-34.8476874466478,19.345429942766
+14,169,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",115,0.521739130434783,988,-7.96333649825576,19.4393841488322
+14,170,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",112,0.526785714285714,987,-33.9144129273612,28.240953087164
+14,171,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",121,0.495867768595041,978,-20.6601994763647,17.6038476068498
+14,172,2014,"Year 5","Grammar and Punctuation","Yes","No to low exposure",130,0.515384615384615,991,10.7732650156844,16.9534993875794
+14,173,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",120,0.491666666666667,986,-4.12384634323555,19.7417736749163
+14,174,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",124,0.491935483870968,978,30.3467203837604,19.6162764762868
+14,175,2017,"Year 5","Grammar and Punctuation","Yes","No to low exposure",121,0.495867768595041,944,-69.9728679002796,22.4566780275361
+14,176,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",123,0.471544715447154,963,-8.29292738316673,19.7094085457708
+15,181,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",38,0.526315789473684,1091,78.9736686848418,35.9298460304208
+15,182,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",23,0.565217391304348,1037,108.494926927093,30.3106598492663
+15,179,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",34,0.5,1091,53.3367151910908,22.8471144485836
+15,180,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",38,0.526315789473684,1091,72.3301024436516,33.4176771111212
+15,181,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",23,0.565217391304348,1037,1.67500847740858,33.5341334640328
+16,185,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",114,0.517543859649123,1026,68.1848014384172,18.5720258207769
+16,186,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",109,0.513761467889908,1026,7.30783327701232,25.7076390359083
+16,187,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",114,0.56140350877193,1046,18.6560469951938,18.1840417098475
+16,188,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",116,0.577586206896552,1045,9.60631104015464,21.2028072714157
+16,189,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",106,0.566037735849057,1036,46.5900575054381,21.2860790608173
+16,190,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",121,0.553719008264463,1053,37.498137087092,21.7008330993064
+16,191,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",113,0.548672566371681,1076,57.948872794571,22.6467059777362
+16,192,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",117,0.521367521367521,1047,-4.75584565701811,23.7176299684718
+16,193,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",116,0.543103448275862,1037,24.2762918005842,20.8372697194873
+16,194,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",108,0.518518518518518,1060,78.637481972511,23.0761760552155
+16,195,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",119,0.504201680672269,1033,-3.13379309362032,20.8638703810911
+16,183,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",114,0.517543859649123,1026,20.7308692209915,23.2604092075346
+16,184,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",109,0.513761467889908,1026,-25.2845692134732,21.1376700094241
+16,185,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",114,0.56140350877193,1046,17.5718426899487,16.7776225647433
+16,186,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",116,0.577586206896552,1045,-18.9828856129776,24.829483871259
+16,187,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",106,0.566037735849057,1036,26.6685687598979,17.2647840652884
+16,188,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",121,0.553719008264463,1053,10.1757377509038,20.6098347657518
+16,189,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",113,0.548672566371681,1076,46.3985185895763,19.6503413828445
+16,190,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",117,0.521367521367521,1047,28.3131737423978,19.4366263541501
+16,191,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",116,0.543103448275862,1037,12.0453518665057,18.8907868633809
+16,192,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",108,0.518518518518518,1060,-12.9617418978308,20.9973466525933
+16,193,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",119,0.504201680672269,1033,27.5750720483368,17.2940251315219
+17,198,2008,"Year 3","Grammar and Punctuation","Yes","High exposure",231,0.523809523809524,978,-16.7373323447973,14.0858012526924
+17,199,2009,"Year 3","Grammar and Punctuation","Yes","High exposure",250,0.548,978,-25.049569127014,18.0580616744684
+17,200,2010,"Year 3","Grammar and Punctuation","Yes","High exposure",246,0.536585365853659,946,2.40910356832887,14.2506321790866
+17,201,2011,"Year 3","Grammar and Punctuation","Yes","High exposure",259,0.555984555984556,946,9.42018363449598,18.16790118947
+17,202,2012,"Year 3","Grammar and Punctuation","Yes","High exposure",229,0.537117903930131,940,8.85735215419129,15.1916716652525
+17,203,2013,"Year 3","Grammar and Punctuation","Yes","High exposure",211,0.5260663507109,933,22.4460686653455,16.675055920451
+17,204,2014,"Year 3","Grammar and Punctuation","Yes","High exposure",204,0.504901960784314,922,-56.9668097806557,16.8089545190624
+17,205,2015,"Year 3","Grammar and Punctuation","Yes","High exposure",186,0.505376344086022,927,-13.1195868661168,17.7745087466689
+17,206,2016,"Year 3","Grammar and Punctuation","Yes","High exposure",182,0.483516483516484,927,-13.4055033268005,20.9986339844282
+17,196,2008,"Year 5","Grammar and Punctuation","Yes","High exposure",231,0.523809523809524,978,27.6870289885681,16.5200592696428
+17,197,2009,"Year 5","Grammar and Punctuation","Yes","High exposure",250,0.548,978,39.9474519986357,13.23958523876
+17,198,2010,"Year 5","Grammar and Punctuation","Yes","High exposure",246,0.536585365853659,946,20.8035694704517,13.9328128820012
+17,199,2011,"Year 5","Grammar and Punctuation","Yes","High exposure",259,0.555984555984556,946,5.71350862330544,16.857929630253
+17,200,2012,"Year 5","Grammar and Punctuation","Yes","High exposure",229,0.537117903930131,940,-19.24421857844,13.4721545086088
+17,201,2013,"Year 5","Grammar and Punctuation","Yes","High exposure",211,0.5260663507109,933,-27.8915655007355,16.9988177162346
+17,202,2014,"Year 5","Grammar and Punctuation","Yes","High exposure",204,0.504901960784314,922,-13.5436361615119,14.0270487843664
+17,203,2015,"Year 5","Grammar and Punctuation","Yes","High exposure",186,0.505376344086022,927,-20.596427525865,15.3828190852255
+17,204,2016,"Year 5","Grammar and Punctuation","Yes","High exposure",182,0.483516483516484,927,-14.0299036789016,17.0296179891022
+18,209,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",289,0.536332179930796,998,-31.1930299049325,14.9987522757625
+18,210,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",270,0.496296296296296,998,-18.4908066655562,13.1291681509042
+18,211,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",250,0.464,960,-70.596735472922,15.4705155802592
+18,212,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",229,0.458515283842795,961,-41.2856468461683,16.3064338182395
+18,213,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",212,0.476415094339623,960,-58.1989439890393,15.3110842805824
+18,214,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",193,0.461139896373057,938,-55.5007634896191,18.8880179617416
+18,215,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",180,0.483333333333333,944,-61.837780420724,18.0457018262284
+18,216,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",165,0.466666666666667,932,-42.5698112362521,18.3444170196171
+18,217,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",141,0.460992907801418,939,-36.828566910166,18.3820905917064
+18,218,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",138,0.420289855072464,938,-16.4071063487129,21.2888234184027
+18,219,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",153,0.470588235294118,926,-102.208103224368,20.9735368882781
+18,207,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",289,0.536332179930796,998,-17.8345166872172,13.4715657473758
+18,208,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",270,0.496296296296296,998,-42.0793808060084,13.4873723357285
+18,209,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",250,0.464,960,-25.5764581087526,15.1837480318427
+18,210,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",229,0.458515283842795,961,-22.7390247463115,13.969196170867
+18,211,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",212,0.476415094339623,960,-50.7494017771693,15.3366576803419
+18,212,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",193,0.461139896373057,938,-25.5553361748088,16.6876746486156
+18,213,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",180,0.483333333333333,944,-10.266047035849,14.1437623405488
+18,214,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",165,0.466666666666667,932,-56.4830196042783,19.5299736759288
+18,215,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",141,0.460992907801418,939,-12.2374100580433,16.8828845533531
+18,216,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",138,0.420289855072464,938,-6.12692233364231,16.9325908812592
+18,217,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",153,0.470588235294118,926,-13.1468523827677,17.2983041930692
+19,222,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",64,0.421875,1064,-8.33738966034309,25.6964836705216
+19,223,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",63,0.428571428571429,1064,-53.3136430631167,28.6901125870753
+19,224,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",56,0.535714285714286,979,-37.160906422294,35.7819973757604
+19,225,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",52,0.403846153846154,973,-37.3631150450284,35.8630060351579
+19,226,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",41,0.390243902439024,972,-53.0205264111721,26.9674824335007
+19,227,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",41,0.51219512195122,960,-88.7897208466901,33.3869093937345
+19,228,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",48,0.416666666666667,946,7.17938890849399,35.9657226475145
+19,229,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",51,0.431372549019608,924,-29.6652065024515,32.8983439168082
+19,230,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",64,0.40625,948,-3.88346070033107,28.2239044456306
+19,231,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",67,0.432835820895522,946,-12.523241184584,27.1444484311752
+19,220,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",64,0.421875,1064,11.9063963248494,20.6748137941932
+19,221,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",63,0.428571428571429,1064,86.7073429263782,31.1064216241423
+19,222,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",56,0.535714285714286,979,-3.13457567246364,33.521040045287
+19,223,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",52,0.403846153846154,973,-62.4657818187679,31.0265936642039
+19,224,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",41,0.390243902439024,972,44.4321281632994,33.7120106227383
+19,225,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",51,0.392156862745098,980,-32.3793693798963,34.0007625367627
+19,226,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",41,0.51219512195122,960,-58.5698225132567,26.6985511920772
+19,227,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",51,0.431372549019608,924,-28.0383973980592,25.312911016803
+19,228,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",64,0.40625,948,18.467066237138,26.7834286042961
+19,229,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",67,0.432835820895522,946,51.4268265857757,28.5932506886808
+20,234,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",167,0.473053892215569,1053,11.7948729154264,18.1680506641135
+20,235,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",156,0.480769230769231,1053,35.5453523588181,18.0146452386097
+20,236,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",159,0.452830188679245,1017,29.7833713643578,21.3895289064039
+20,237,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",158,0.481012658227848,1014,5.43362528668762,21.3181692075186
+20,238,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",144,0.506944444444444,1003,-17.3723240683719,18.1740148590833
+20,239,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",158,0.455696202531646,1000,-23.7812583035153,18.5631915383764
+20,240,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",142,0.457746478873239,1007,-6.10908984044887,20.8518468423787
+20,241,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",129,0.449612403100775,1015,4.77607233730801,18.2386952000907
+20,242,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",130,0.453846153846154,1010,44.7544346007008,21.2838416372158
+20,243,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",121,0.462809917355372,1002,24.2603042826155,18.1935527607435
+20,244,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",152,0.460526315789474,1003,-12.5918263901604,18.4047137093485
+20,232,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",167,0.473053892215569,1053,2.76247512976388,19.826405986339
+20,233,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",156,0.480769230769231,1053,-17.9244639539057,16.7516425705191
+20,234,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",159,0.452830188679245,1017,11.3448405698512,15.5849193509125
+20,235,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",158,0.481012658227848,1014,23.9211764127388,19.6348582283097
+20,236,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",144,0.506944444444444,1003,9.06165290092387,19.0788059138501
+20,237,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",158,0.455696202531646,1000,-54.4611583145478,19.7856138647095
+20,238,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",142,0.457746478873239,1007,-5.24823021510903,16.9599073253173
+20,239,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",129,0.449612403100775,1015,-9.58569846316396,20.0535553660598
+20,240,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",130,0.453846153846154,1010,17.6774397825944,25.0322375360254
+20,241,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",121,0.462809917355372,1002,24.3579873918358,19.5839685678843
+20,242,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",152,0.460526315789474,1003,23.1641035683883,19.5838950546188
+21,247,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",145,0.510344827586207,1037,27.0187666030852,18.5112695751565
+21,248,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",143,0.524475524475524,1037,-42.1970384372674,21.3141332785658
+21,249,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",134,0.5,1018,3.18980700447181,21.329648696718
+21,250,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",133,0.541353383458647,1013,27.0021993399558,23.7117991904556
+21,251,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",140,0.5,1006,-2.37434197539668,20.9640930979037
+21,252,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",137,0.489051094890511,1026,18.5660246777489,18.3680758199233
+21,253,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",157,0.439490445859873,1036,13.9565955547601,21.7466397015412
+21,254,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",185,0.421621621621622,1032,5.58273959579026,16.3013373361863
+21,255,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",208,0.475961538461538,1011,-7.01771924540165,16.4337717558801
+21,256,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",213,0.492957746478873,1027,8.03944484084217,14.9326890212754
+21,257,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",217,0.488479262672811,1016,16.9555451128394,18.2886108139865
+21,245,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",145,0.510344827586207,1037,5.43039403734862,15.1018004046831
+21,246,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",143,0.524475524475524,1037,-5.11508389749327,17.0478409461484
+21,247,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",134,0.5,1018,25.5498393426824,16.9154293071754
+21,248,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",133,0.541353383458647,1013,-4.1351238525647,17.1097988457172
+21,249,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",140,0.5,1006,-18.3665805821612,19.5907780395484
+21,250,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",137,0.489051094890511,1026,-8.51202803418662,25.0751446399826
+21,251,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",157,0.439490445859873,1036,8.16030838935559,19.4703607372916
+21,252,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",185,0.421621621621622,1032,23.731439014071,17.3032189019635
+21,253,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",208,0.475961538461538,1011,-1.27878163754354,15.273301479515
+21,254,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",213,0.492957746478873,1027,-22.259717402938,15.1720962614261
+21,255,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",217,0.488479262672811,1016,-0.862857908164197,14.5723432965395
+22,259,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",34,0.441176470588235,1023,-55.8393261832554,33.0641897576852
+22,261,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",38,0.394736842105263,850,-60.6391269103727,32.7554049157202
+22,262,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",38,0.5,897,-19.9840880410561,28.8138762653382
+22,263,2015,"Year 3","Grammar and Punctuation","Yes","No to low exposure",44,0.409090909090909,853,-63.9959640105424,32.6879571760967
+22,264,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",41,0.365853658536585,864,-27.6471781931715,33.0979600384925
+22,265,2018,"Year 3","Grammar and Punctuation","Yes","No to low exposure",40,0.325,856,6.33351531957883,33.3118453553029
+22,258,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",34,0.441176470588235,1023,-45.0638417596776,26.5594026142905
+22,259,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",30,0.4,879,36.2781393877995,28.4437116927978
+22,260,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",32,0.4375,908,-9.54231811322506,31.0997370240195
+22,261,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",44,0.409090909090909,853,-47.868358323118,30.8508377332838
+22,262,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",41,0.365853658536585,864,-63.7852491979897,30.7843860164635
+22,263,2017,"Year 5","Grammar and Punctuation","Yes","No to low exposure",41,0.341463414634146,839,-78.4269663208379,30.7712983051714
+22,264,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",40,0.325,856,-16.6005311664259,28.6724498853434
+23,266,2010,"Year 3","Grammar and Punctuation","Yes","No to low exposure",15,0.533333333333333,1089,-13.5140093720331,32.9593391034911
+23,267,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",17,0.529411764705882,1043,-54.9740148276242,32.5854709750421
+23,266,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",18,0.5,1058,-6.13377652483888,33.4307936587545
+23,267,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",15,0.666666666666667,968,-61.4053910637432,33.3476829455379
+24,270,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",74,0.5,1035,24.960580975705,22.0913252302427
+24,271,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",70,0.557142857142857,1035,-57.323046971156,26.784824489508
+24,272,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",74,0.567567567567568,1006,9.01338850877842,26.5527732422142
+24,273,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",68,0.617647058823529,1011,22.3648203978771,30.7579584600412
+24,274,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",76,0.631578947368421,1001,23.0741070264167,26.5001714057472
+24,275,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",76,0.644736842105263,1016,75.5912618804975,21.0835011829057
+24,276,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",75,0.613333333333333,1004,-14.1678761092328,32.9643270948414
+24,277,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",81,0.617283950617284,1016,55.0095509094401,24.8683093649807
+24,278,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",90,0.577777777777778,1017,34.9570972905004,26.8004159994796
+24,279,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",81,0.54320987654321,1017,38.0171839321157,28.4436161105826
+24,280,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",87,0.494252873563218,1013,2.79384165679486,20.9467591017792
+24,268,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",74,0.5,1035,18.8510370100353,23.6754826043536
+24,269,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",70,0.557142857142857,1035,14.1750480778982,19.3918667139818
+24,270,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",74,0.567567567567568,1006,32.4996114558305,23.6439299260463
+24,271,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",68,0.617647058823529,1011,-18.2450141782071,23.536675310527
+24,272,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",76,0.631578947368421,1001,18.9415341617828,28.487234426235
+24,273,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",76,0.644736842105263,1016,61.3008129414627,26.5302676405122
+24,274,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",75,0.613333333333333,1004,33.9178468104313,24.2393736692399
+24,275,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",81,0.617283950617284,1016,14.5851677916839,19.7599246212002
+24,276,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",90,0.577777777777778,1017,-35.9660739598511,33.2698117281912
+24,277,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",81,0.54320987654321,1017,44.4221755573065,21.4519313582337
+24,278,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",87,0.494252873563218,1013,46.484428098195,23.9409035194466
+25,282,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",28,0.357142857142857,1013,119.084326939513,36.4237645135142
+25,281,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",27,0.555555555555556,952,-0.673799156700178,33.4604147421548
+26,285,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",93,0.537634408602151,1037,54.5350258725107,21.2132938519379
+26,286,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",100,0.48,1037,-34.2052830226519,24.0136866320705
+26,287,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",115,0.521739130434783,990,-11.5124591734421,18.570521090966
+26,288,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",123,0.495934959349593,999,-8.66557428096061,25.2064737268757
+26,289,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",152,0.506578947368421,999,-23.0040821058264,18.2435420364333
+26,290,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",160,0.48125,998,-23.4189879640281,18.1753486591778
+26,291,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",173,0.491329479768786,1005,-35.4685688379729,20.9471904411712
+26,292,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",179,0.513966480446927,1001,-36.5106671847918,16.2484284616312
+26,293,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",177,0.485875706214689,1011,-9.01369461490686,15.1512155488484
+26,294,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",179,0.424581005586592,1011,1.82132883148051,18.2591743648074
+26,295,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",186,0.424731182795699,999,-83.1049547339244,21.1787053683617
+26,283,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",93,0.537634408602151,1037,21.7308898222307,23.8326354751597
+26,284,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",100,0.48,1037,20.6585017199214,26.6583712953053
+26,285,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",115,0.521739130434783,990,3.09503270840735,19.389762406869
+26,286,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",123,0.495934959349593,999,-51.2248217632322,21.7302268852697
+26,287,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",152,0.506578947368421,999,-2.7768880004907,16.889142595682
+26,288,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",160,0.48125,998,6.38449893231662,19.7888818317397
+26,289,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",173,0.491329479768786,1005,-7.23920817138531,19.6052759116425
+26,290,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",179,0.513966480446927,1001,-6.64622129808285,17.2984728326765
+26,291,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",177,0.485875706214689,1011,-35.1299361790605,17.0768861676728
+26,292,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",179,0.424581005586592,1011,-13.4531727414244,16.7743499722448
+26,293,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",186,0.424731182795699,999,-8.04290004499634,14.358442551746
+27,298,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",431,0.491879350348028,1008,18.2141656386629,11.7675257719
+27,299,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",440,0.479545454545455,1008,22.2270500032868,10.5971756242407
+27,300,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",443,0.501128668171558,1003,-8.86159077088144,10.9261969217917
+27,301,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",466,0.504291845493562,1002,-20.1760057369208,10.9893797933963
+27,302,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",508,0.507874015748031,996,-3.8034859481084,11.0620525886745
+27,303,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",525,0.497142857142857,996,-14.8343794427615,11.0143852266649
+27,304,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",529,0.491493383742911,997,-10.8383595721247,10.1064820084986
+27,305,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",530,0.484905660377358,996,2.9980840479648,9.78954773091075
+27,306,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",545,0.464220183486239,999,-5.82427658805678,8.95388220813213
+27,307,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",555,0.472072072072072,996,4.28394775741402,8.84840970011165
+27,308,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",568,0.459507042253521,997,-10.7216424527026,9.54863220189439
+27,296,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",431,0.491879350348028,1008,18.3576814413903,10.3023020120004
+27,297,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",440,0.479545454545455,1008,1.3237817446474,10.3199351115252
+27,298,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",443,0.501128668171558,1003,-13.8062663329959,10.8025907439376
+27,299,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",466,0.504291845493562,1002,-7.59695266273591,11.0772760371062
+27,300,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",508,0.507874015748031,996,-11.9350608587415,10.5333722242231
+27,301,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",525,0.497142857142857,996,-9.07871678548173,9.99844319566547
+27,302,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",529,0.491493383742911,997,-18.2301207368933,9.86108402125003
+27,303,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",530,0.484905660377358,996,-14.5473746356314,9.41673872400864
+27,304,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",545,0.464220183486239,999,4.51580246479007,9.36103369582025
+27,305,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",555,0.472072072072072,996,6.33027734135051,9.25288942730647
+27,306,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",568,0.459507042253521,997,-20.948108049747,9.01143916888426
+28,311,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",123,0.447154471544715,962,-39.2645853429491,21.425371700611
+28,312,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",123,0.463414634146341,962,-38.1939230647536,25.5373641215398
+28,313,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",112,0.508928571428571,931,-19.527196810039,21.1792383856764
+28,314,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",108,0.555555555555556,935,-22.6515260083048,24.3448378237802
+28,315,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",101,0.574257425742574,931,33.0723719692043,21.3288093375517
+28,316,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",92,0.597826086956522,910,-72.68798963217,22.5463545247604
+28,317,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",101,0.534653465346535,924,-67.786523140422,24.3095463143806
+28,318,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",104,0.5,916,-46.4450164873509,24.4951764961799
+28,319,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",112,0.535714285714286,929,-58.6620122267772,23.5287997812608
+28,320,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",122,0.516393442622951,945,-42.2603764077418,21.2910181302647
+28,321,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",124,0.516129032258065,942,-63.9820598266167,21.0268661675064
+28,309,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",123,0.447154471544715,962,-31.230308299961,17.2711229792164
+28,310,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",123,0.463414634146341,962,-37.3194493729629,19.2625349530926
+28,311,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",112,0.508928571428571,931,-30.8408412569573,17.2081686088619
+28,312,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",108,0.555555555555556,935,-4.52832931269374,21.5174941129323
+28,313,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",101,0.574257425742574,931,1.47623147598082,19.562250686984
+28,314,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",92,0.597826086956522,910,-79.2028687885,28.6696928047476
+28,315,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",101,0.534653465346535,924,-31.9622956184924,19.767811100704
+28,316,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",104,0.5,916,-93.8554687651043,19.9487758642804
+28,317,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",112,0.535714285714286,929,-15.2001602560999,25.2630807797569
+28,318,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",122,0.516393442622951,945,-24.2517290362044,22.1226693295338
+28,319,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",124,0.516129032258065,942,-60.2614105877473,22.5107774249274
+29,322,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",25,0.44,1023,21.9362418673279,35.2740936497653
+29,323,2018,"Year 3","Grammar and Punctuation","Yes","No to low exposure",31,0.516129032258065,932,-109.431233954525,32.7592543996523
+30,324,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",23,0.565217391304348,962,38.7761684454652,33.2177007820508
+30,326,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",23,0.608695652173913,962,51.034210968235,36.0337820379819
+30,324,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",23,0.608695652173913,962,49.5471768393895,30.8715829170942
+30,325,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",23,0.565217391304348,956,28.6848877027504,33.6293686931688
+31,328,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",35,0.657142857142857,1059,27.0569429197116,30.4976038892411
+31,329,2012,"Year 3","Grammar and Punctuation","Yes","No to low exposure",42,0.571428571428571,984,-51.1841202196767,30.7700669142391
+31,330,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",44,0.477272727272727,976,-152.701253695137,36.3507373961029
+31,331,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",48,0.458333333333333,1014,-15.0270226001342,28.5223721541265
+31,332,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",48,0.4375,983,15.6832051406226,25.3259193579527
+31,333,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",41,0.390243902439024,965,-62.5180081347987,27.0850017653627
+31,334,2018,"Year 3","Grammar and Punctuation","Yes","No to low exposure",35,0.4,995,22.4080933332421,36.331675330413
+31,327,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",36,0.611111111111111,964,86.7200636866799,33.8253107099674
+31,328,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",48,0.520833333333333,975,25.7945166907565,25.0510132291208
+31,329,2014,"Year 5","Grammar and Punctuation","Yes","No to low exposure",48,0.458333333333333,1014,-8.67777445494532,28.5777981798628
+31,330,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",54,0.444444444444444,1003,-33.3823758868502,30.6237260865064
+31,331,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",48,0.4375,983,-80.9753001699774,28.567097836453
+31,332,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",35,0.4,995,-15.5991761650579,26.7713583066073
+32,337,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",193,0.476683937823834,980,-45.3327788893225,14.0492642296392
+32,338,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",196,0.510204081632653,980,-53.7625019827381,18.5962217176944
+32,339,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",173,0.53757225433526,982,-58.9020360886727,18.4537985431798
+32,340,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",165,0.533333333333333,984,-10.9993333019227,21.0159248304155
+32,341,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",158,0.531645569620253,969,-108.122511502829,16.2671268711934
+32,342,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",149,0.503355704697987,976,3.1047998784954,21.1415338489935
+32,343,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",156,0.461538461538462,972,-20.1743654251201,18.2789752675459
+32,344,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",141,0.453900709219858,963,-68.1682549888247,21.1492602631669
+32,345,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",137,0.437956204379562,974,-51.923466999146,21.894313417563
+32,346,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",144,0.409722222222222,947,-81.3340598633827,16.7072948593869
+32,347,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",136,0.411764705882353,969,-7.58472415672974,21.2272545632057
+32,335,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",193,0.476683937823834,980,0.535584841188519,13.137601085394
+32,336,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",196,0.510204081632653,980,-18.7157388212251,19.212478252872
+32,337,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",173,0.53757225433526,982,-41.9871996448984,14.3811419500035
+32,338,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",165,0.533333333333333,984,-60.8283990538411,23.0660368813046
+32,339,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",158,0.531645569620253,969,-84.1438212021503,19.3479940970996
+32,340,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",149,0.503355704697987,976,-20.2151690708654,17.3009007323809
+32,341,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",156,0.461538461538462,972,-47.5002597217678,17.1509112222564
+32,342,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",141,0.453900709219858,963,-39.2646559383999,19.220091450303
+32,343,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",137,0.437956204379562,974,-15.4123006624903,19.637278484611
+32,344,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",144,0.409722222222222,947,-49.9843248074538,19.5857634622294
+32,345,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",136,0.411764705882353,969,-32.7597407538019,19.7866084206711
+33,350,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",382,0.484293193717277,1002,0.670057896982674,11.0005093145878
+33,351,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",414,0.48792270531401,1002,12.6136733551163,10.9167513339907
+33,352,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",420,0.492857142857143,998,-13.7697775858538,11.710501938043
+33,353,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",425,0.517647058823529,996,-42.3718954126564,12.0950614694726
+33,354,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",446,0.493273542600897,991,-20.7605197252057,10.4561854349037
+33,355,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",472,0.49364406779661,988,-4.21267377821378,10.9733243711716
+33,356,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",501,0.516966067864271,990,-34.9468837581327,10.6917975174383
+33,357,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",505,0.481188118811881,994,-20.4630930100771,9.37070067130672
+33,358,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",495,0.462626262626263,989,-27.0846631662632,9.64419259467407
+33,359,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",519,0.499036608863198,983,-40.6024129228686,11.1640700206099
+33,360,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",498,0.506024096385542,983,-59.0856076703328,11.2213081974383
+33,348,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",382,0.484293193717277,1002,11.8243667659543,10.7926068491115
+33,349,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",414,0.48792270531401,1002,-21.7515677207034,11.6432708759941
+33,350,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",420,0.492857142857143,998,-28.9442026105552,10.6006600727057
+33,351,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",425,0.517647058823529,996,-8.33128644738509,10.412165055478
+33,352,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",446,0.493273542600897,991,-19.2547595149061,11.729309854876
+33,353,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",472,0.49364406779661,988,-30.0702467818057,10.9136281552136
+33,354,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",501,0.516966067864271,990,-21.2743534864544,9.77759941435408
+33,355,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",505,0.481188118811881,994,-13.4571775651684,10.3056501038811
+33,356,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",495,0.462626262626263,989,-3.32957764806445,9.81381711687039
+33,357,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",519,0.499036608863198,983,-23.0738064163831,9.57036007111508
+33,358,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",498,0.506024096385542,983,-14.6036469584597,9.47049094595382
+34,363,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",233,0.467811158798283,981,-20.4748359223966,18.0187439954359
+34,364,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",234,0.465811965811966,981,-11.6984822870468,16.1228202407052
+34,365,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",256,0.484375,941,-33.1478336274868,13.8254246266066
+34,366,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",238,0.550420168067227,939,-3.3862485862156,13.8220669566726
+34,367,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",233,0.515021459227468,939,-47.4151915103999,16.2696818265277
+34,368,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",247,0.497975708502024,926,-23.7990464636527,18.1868613249628
+34,369,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",248,0.495967741935484,938,-23.4241144807616,16.5936958283417
+34,370,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",285,0.463157894736842,936,-29.4649455155715,12.9624733761046
+34,371,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",320,0.471875,948,-16.3445982850644,16.6662621901527
+34,372,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",344,0.459302325581395,930,-46.8179234034595,13.1374443392516
+34,373,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",341,0.460410557184751,928,-85.9551046178754,10.9312992419391
+34,361,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",233,0.467811158798283,981,-5.93848014128067,17.104924325511
+34,362,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",234,0.465811965811966,981,-18.4862130259782,13.1888163848377
+34,363,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",256,0.484375,941,-30.8544125388611,13.873364037839
+34,364,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",238,0.550420168067227,939,6.57627342877116,19.4357564839476
+34,365,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",233,0.515021459227468,939,-41.8472393937148,12.1539752819396
+34,366,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",247,0.497975708502024,926,-6.44262500943741,15.3896001960342
+34,367,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",248,0.495967741935484,938,-61.9649850585762,14.3966816013295
+34,368,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",285,0.463157894736842,936,-19.0517103920559,14.217888799665
+34,369,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",320,0.471875,948,-11.68232982861,14.0917656626045
+34,370,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",344,0.459302325581395,930,-36.4932972867279,12.4046931421599
+34,371,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",341,0.460410557184751,928,-26.4550690070347,13.2400673783214
+35,376,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",368,0.478260869565217,1011,-2.29222319519664,10.9079680854206
+35,377,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",367,0.476839237057221,1011,-45.1006253661961,13.4762385446399
+35,378,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",363,0.482093663911846,971,-48.8824504344341,12.2992245628261
+35,379,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",368,0.505434782608696,970,-37.0298317921503,12.4294016287132
+35,380,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",352,0.497159090909091,963,-33.2102316569223,10.7638923797434
+35,381,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",334,0.48502994011976,963,-44.4947773294431,12.0282609144353
+35,382,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",316,0.487341772151899,967,-47.4141440781896,13.706318842825
+35,383,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",322,0.503105590062112,957,-54.7002544677217,13.2275170528844
+35,384,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",290,0.5,957,-10.1083572004225,13.5562433278415
+35,385,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",272,0.511029411764706,958,-13.5858446863285,15.1088616488722
+35,386,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",314,0.496815286624204,963,11.0767521880384,12.9546236564298
+35,374,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",368,0.478260869565217,1011,0.524065235215425,11.1619745128295
+35,375,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",367,0.476839237057221,1011,9.94347771340867,13.6553285200534
+35,376,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",363,0.482093663911846,971,-36.4116647947557,10.3416777349524
+35,377,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",368,0.505434782608696,970,-50.4911061198042,11.934935701442
+35,378,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",352,0.497159090909091,963,-45.1870074309712,11.2991482246251
+35,379,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",334,0.48502994011976,963,-30.2095854247056,10.398885051027
+35,380,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",316,0.487341772151899,967,-15.100988690208,10.3393690260116
+35,381,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",322,0.503105590062112,957,-28.4168018798715,13.2124883777349
+35,382,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",290,0.5,957,-28.247227571929,12.9601291017038
+35,383,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",272,0.511029411764706,958,-18.4526969921266,13.0747962652104
+35,384,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",314,0.496815286624204,963,-21.4796880784854,12.9838986781913
+36,389,2008,"Year 3","Grammar and Punctuation","Yes","High exposure",98,0.408163265306122,971,-36.1655664700117,21.0975782270539
+36,390,2009,"Year 3","Grammar and Punctuation","Yes","High exposure",98,0.448979591836735,971,-34.1095165769125,24.5715570219458
+36,391,2010,"Year 3","Grammar and Punctuation","Yes","High exposure",99,0.454545454545455,912,-32.1256343420724,30.3775972116652
+36,392,2011,"Year 3","Grammar and Punctuation","Yes","High exposure",90,0.522222222222222,913,-53.919429885133,20.7854833061024
+36,393,2012,"Year 3","Grammar and Punctuation","Yes","High exposure",86,0.511627906976744,909,-90.3105309178528,21.4558892049364
+36,394,2013,"Year 3","Grammar and Punctuation","Yes","High exposure",93,0.537634408602151,867,-73.650878445475,22.6434664895466
+36,395,2014,"Year 3","Grammar and Punctuation","Yes","High exposure",79,0.556962025316456,915,-1.05419527948114,28.6253649172904
+36,396,2015,"Year 3","Grammar and Punctuation","Yes","High exposure",79,0.518987341772152,877,-103.435907479282,22.1165328367234
+36,397,2016,"Year 3","Grammar and Punctuation","Yes","High exposure",88,0.522727272727273,876,-123.595468767551,25.5779489573349
+36,387,2008,"Year 5","Grammar and Punctuation","Yes","High exposure",98,0.408163265306122,971,-53.6740640832623,19.8979716726474
+36,388,2009,"Year 5","Grammar and Punctuation","Yes","High exposure",98,0.448979591836735,971,-33.6975767532132,28.3981344582547
+36,389,2010,"Year 5","Grammar and Punctuation","Yes","High exposure",99,0.454545454545455,912,8.62356944107046,21.426186211651
+36,390,2011,"Year 5","Grammar and Punctuation","Yes","High exposure",90,0.522222222222222,913,-56.7226713309949,24.8598997519285
+36,391,2012,"Year 5","Grammar and Punctuation","Yes","High exposure",86,0.511627906976744,909,-66.0515972758845,33.2685383408057
+36,392,2013,"Year 5","Grammar and Punctuation","Yes","High exposure",93,0.537634408602151,867,-61.2125379462733,22.2373183393438
+36,393,2014,"Year 5","Grammar and Punctuation","Yes","High exposure",79,0.556962025316456,915,-34.5324840430099,23.4752340929856
+36,394,2015,"Year 5","Grammar and Punctuation","Yes","High exposure",79,0.518987341772152,877,-38.738909985887,26.7424711533826
+36,395,2016,"Year 5","Grammar and Punctuation","Yes","High exposure",88,0.522727272727273,876,-27.0107079578994,28.3124848037555
+37,400,2008,"Year 3","Grammar and Punctuation","Yes","High exposure",125,0.424,930,-47.4558142658812,21.3146890013643
+37,401,2009,"Year 3","Grammar and Punctuation","Yes","High exposure",134,0.380597014925373,930,-70.1894924727244,21.3771572284698
+37,402,2010,"Year 3","Grammar and Punctuation","Yes","High exposure",146,0.465753424657534,877,27.0394313493901,25.6950495285135
+37,403,2011,"Year 3","Grammar and Punctuation","Yes","High exposure",155,0.432258064516129,878,-5.75214188256717,18.0049905406302
+37,404,2012,"Year 3","Grammar and Punctuation","Yes","High exposure",155,0.4,870,16.7828400832753,21.3643142270333
+37,405,2013,"Year 3","Grammar and Punctuation","Yes","High exposure",161,0.447204968944099,850,-30.7294979006771,20.8775923236185
+37,406,2014,"Year 3","Grammar and Punctuation","Yes","High exposure",155,0.406451612903226,859,-65.7557885232513,28.5794620903473
+37,407,2015,"Year 3","Grammar and Punctuation","Yes","High exposure",141,0.404255319148936,854,-71.9155675196506,18.4201593137424
+37,408,2016,"Year 3","Grammar and Punctuation","Yes","High exposure",151,0.417218543046358,837,-77.9228865880561,18.3062679346053
+37,398,2008,"Year 5","Grammar and Punctuation","Yes","High exposure",125,0.424,930,-41.2489927220664,19.1234488130353
+37,399,2009,"Year 5","Grammar and Punctuation","Yes","High exposure",134,0.380597014925373,930,-20.9209835002488,20.6520290936587
+37,400,2010,"Year 5","Grammar and Punctuation","Yes","High exposure",146,0.465753424657534,877,23.5356519593556,19.3821669725791
+37,401,2011,"Year 5","Grammar and Punctuation","Yes","High exposure",155,0.432258064516129,878,-35.0077628666554,19.6350744023578
+37,402,2012,"Year 5","Grammar and Punctuation","Yes","High exposure",155,0.4,870,-11.4908878467423,19.2550686105948
+37,403,2013,"Year 5","Grammar and Punctuation","Yes","High exposure",161,0.447204968944099,850,-35.6791415944435,17.1995581395677
+37,404,2014,"Year 5","Grammar and Punctuation","Yes","High exposure",155,0.406451612903226,859,-54.0464466886939,19.9066598910131
+37,405,2015,"Year 5","Grammar and Punctuation","Yes","High exposure",141,0.404255319148936,854,-40.1769927311909,19.1633460511154
+37,406,2016,"Year 5","Grammar and Punctuation","Yes","High exposure",151,0.417218543046358,837,-66.7517906489799,22.6665654873092
+38,411,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",272,0.463235294117647,1014,9.15932793352512,14.2036620478793
+38,412,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",284,0.492957746478873,1014,-19.1251443648217,14.6852908236308
+38,413,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",282,0.514184397163121,959,-25.1176061278126,13.8041526141031
+38,414,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",257,0.490272373540856,957,9.23808929690385,14.2083725509263
+38,415,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",266,0.484962406015038,950,1.7297901979422,14.1078513565578
+38,416,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",294,0.489795918367347,948,-23.0727440236451,13.8635510101102
+38,417,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",298,0.456375838926175,955,-39.5949707113477,12.8006411298375
+38,418,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",282,0.453900709219858,960,-15.685403382702,13.1773188787655
+38,419,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",266,0.454887218045113,950,-13.2530015975324,12.24297198741
+38,420,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",278,0.467625899280576,960,-9.91640706129035,16.323577253263
+38,421,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",298,0.476510067114094,953,-12.8087858362161,13.9268603155785
+38,409,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",272,0.463235294117647,1014,-8.2335336772335,13.4098472684403
+38,410,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",284,0.492957746478873,1014,-32.1011672234227,12.2484699814071
+38,411,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",282,0.514184397163121,959,-13.7952131559739,12.294057846054
+38,412,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",257,0.490272373540856,957,-30.9404623574803,13.8567484287483
+38,413,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",266,0.484962406015038,950,-18.7001185613016,13.517305703699
+38,414,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",294,0.489795918367347,948,2.25592017745445,13.0085849521721
+38,415,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",298,0.456375838926175,955,-4.51514174092125,13.254017822713
+38,416,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",282,0.453900709219858,960,-23.1972528120719,14.7353773826762
+38,417,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",266,0.454887218045113,950,-45.8669444035801,13.1390083748293
+38,418,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",278,0.467625899280576,960,-16.4950558378033,12.1068759699423
+38,419,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",298,0.476510067114094,953,-6.37311617612712,11.4411070436839
+39,424,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",392,0.474489795918367,955,-27.313335334072,14.141817322924
+39,425,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",373,0.474530831099196,955,-29.0713455033445,11.45543315439
+39,426,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",341,0.466275659824047,915,-37.0906257142127,15.0056998605413
+39,427,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",332,0.466867469879518,912,-43.4253752097496,13.7838933976266
+39,428,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",335,0.471641791044776,915,-39.0247116109267,14.7819670890973
+39,429,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",316,0.5,895,-23.6152924448601,13.8414208003109
+39,430,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",327,0.483180428134557,894,-3.37676826844556,14.1450408028326
+39,431,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",336,0.511904761904762,887,-32.0196350745413,12.8888771877364
+39,432,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",318,0.481132075471698,883,-39.4017194185178,15.0120695486283
+39,433,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",300,0.453333333333333,869,-48.1316964574275,11.6930616849073
+39,434,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",277,0.436823104693141,875,-7.12276364934247,16.689682218587
+39,422,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",392,0.474489795918367,955,2.13517990056726,11.4528967778577
+39,423,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",373,0.474530831099196,955,-9.71561832769464,12.2254971404802
+39,424,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",341,0.466275659824047,915,-45.9764095433456,11.4210269002084
+39,425,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",332,0.466867469879518,912,-32.1460807969297,11.2282805866033
+39,426,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",335,0.471641791044776,915,-9.96400683970751,12.2197623290908
+39,427,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",316,0.5,895,-26.1354819902111,13.4296465233368
+39,428,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",327,0.483180428134557,894,-17.1037966332983,13.4195186134122
+39,429,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",336,0.511904761904762,887,-33.7405865467949,11.7593818048839
+39,430,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",318,0.481132075471698,883,-39.7895579761505,12.7698731868486
+39,431,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",300,0.453333333333333,869,-50.0683516441861,12.0277277796291
+39,432,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",277,0.436823104693141,875,-21.4411846369259,15.1552076883688
+40,437,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",122,0.434426229508197,972,-118.15950013888,21.9736266398563
+40,438,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",130,0.423076923076923,972,-55.9234971515907,21.5424843864686
+40,439,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",131,0.435114503816794,904,-70.7457995970877,18.2086294267038
+40,440,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",111,0.459459459459459,914,-91.5840190323138,21.8577707508674
+40,441,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",126,0.492063492063492,905,-85.5076187358521,18.2193197128035
+40,442,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",145,0.482758620689655,795,-62.5653085033906,21.5992741064956
+40,443,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",110,0.536363636363636,782,-50.2831895714501,23.8525128739573
+40,444,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",108,0.527777777777778,823,-74.7077292755966,25.7413702940855
+40,445,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",100,0.54,800,-98.4995841397065,21.098983958679
+40,446,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",100,0.45,792,-80.6988320811372,21.1840286228977
+40,447,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",78,0.538461538461538,803,-162.458268368827,28.471699963233
+40,435,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",122,0.434426229508197,972,-83.9204567593985,19.8178510152406
+40,436,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",130,0.423076923076923,972,-53.0237340534931,17.1381677085242
+40,437,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",131,0.435114503816794,904,-84.0225720829152,21.3085343865328
+40,438,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",111,0.459459459459459,914,-63.3239450026631,21.1694292465591
+40,439,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",126,0.492063492063492,905,-77.7413926234857,19.5511703749349
+40,440,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",145,0.482758620689655,795,-46.3398831480802,20.639756002856
+40,441,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",110,0.536363636363636,782,-71.4949014385006,16.7994060675499
+40,442,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",108,0.527777777777778,823,-49.1558642677574,26.721757277215
+40,443,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",100,0.54,800,-46.4923538101943,20.2663138668567
+40,444,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",100,0.45,792,-52.3434806907387,19.6387594024037
+40,445,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",78,0.538461538461538,803,-21.9143839204548,20.2500997510877
+41,450,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",192,0.4375,978,18.5946768133678,21.5791229276167
+41,451,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",215,0.441860465116279,978,5.37717255237954,18.1361616891617
+41,452,2010,"Year 3","Grammar and Punctuation","Yes","No to low exposure",215,0.441860465116279,928,36.4468853559068,22.213174594824
+41,453,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",243,0.45679012345679,934,-1.96733753803843,15.3914709760504
+41,454,2012,"Year 3","Grammar and Punctuation","Yes","No to low exposure",279,0.483870967741935,938,14.1841412724172,15.3863589370988
+41,455,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",319,0.470219435736677,963,12.8371738745178,14.8001800276946
+41,456,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",364,0.472527472527473,960,24.6541316271505,14.4836673483797
+41,457,2015,"Year 3","Grammar and Punctuation","Yes","No to low exposure",383,0.480417754569191,978,24.816772827062,12.8095019533528
+41,458,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",416,0.466346153846154,979,-8.16343971282558,12.2141225482209
+41,459,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",419,0.477326968973747,975,-29.139209276592,11.8196550131905
+41,460,2018,"Year 3","Grammar and Punctuation","Yes","No to low exposure",438,0.490867579908676,971,9.28876662281154,10.7384054491395
+41,448,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",192,0.4375,978,38.2075962009693,17.1551971662478
+41,449,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",215,0.441860465116279,978,-12.5832292236522,16.9381305202727
+41,450,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",215,0.441860465116279,928,-24.9768177358299,19.275841087065
+41,451,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",243,0.45679012345679,934,18.5525929882606,15.1321812081867
+41,452,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",279,0.483870967741935,938,21.8373341941404,19.5812952649111
+41,453,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",319,0.470219435736677,963,27.9961162406401,12.0295883576687
+41,454,2014,"Year 5","Grammar and Punctuation","Yes","No to low exposure",364,0.472527472527473,960,16.7868830876948,12.9676288788805
+41,455,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",383,0.480417754569191,978,25.4684910603487,14.1601605997907
+41,456,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",416,0.466346153846154,979,27.7262887396826,12.4344592157857
+41,457,2017,"Year 5","Grammar and Punctuation","Yes","No to low exposure",419,0.477326968973747,975,-11.9402588122563,11.122521072345
+41,458,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",438,0.490867579908676,971,3.34005533019586,11.5429814754791
+42,463,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",183,0.491803278688525,950,-57.1351325771753,18.0348583038295
+42,464,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",190,0.468421052631579,950,-16.2736825317752,18.1159058657961
+42,465,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",158,0.518987341772152,958,-58.4676595686098,16.42396047112
+42,466,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",163,0.52760736196319,946,-47.7812983885527,18.2844318309681
+42,467,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",161,0.521739130434783,945,-52.0029500240261,21.0551394172903
+42,468,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",152,0.513157894736842,927,-52.5798540001902,21.6466707716859
+42,469,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",147,0.510204081632653,913,-60.4455561098041,24.4223085547021
+42,470,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",159,0.509433962264151,913,-6.5434766353812,21.2385054256943
+42,471,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",150,0.553333333333333,918,-54.4463787324328,20.8307490006404
+42,472,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",163,0.496932515337423,915,-4.35908626386678,20.5044618757302
+42,473,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",162,0.475308641975309,915,-26.338871569048,16.5273526700815
+42,461,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",183,0.491803278688525,950,-26.8680117326855,17.0267841958995
+42,462,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",190,0.468421052631579,950,-11.1793279034435,15.642215090426
+42,463,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",158,0.518987341772152,958,-52.1879118119506,19.2523695256508
+42,464,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",163,0.52760736196319,946,-29.2985752323749,19.4894155557888
+42,465,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",161,0.521739130434783,945,-47.9317525713201,15.3176601101728
+42,466,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",152,0.513157894736842,927,-43.2177658058262,17.4491498128288
+42,467,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",147,0.510204081632653,913,-3.14031595049138,20.8814908355825
+42,468,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",159,0.509433962264151,913,-43.6558912285456,19.4188916661381
+42,469,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",150,0.553333333333333,918,-59.7951821412122,19.4408222383948
+42,470,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",163,0.496932515337423,915,-26.8079327207253,16.8751210485437
+42,471,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",162,0.475308641975309,915,-27.7779749734124,17.3757872315194
+43,476,2008,"Year 3","Grammar and Punctuation","Yes","High exposure",361,0.498614958448753,969,-24.1393871247303,11.4985811786892
+43,477,2009,"Year 3","Grammar and Punctuation","Yes","High exposure",358,0.46927374301676,969,-31.6635334601717,11.6321641847986
+43,478,2010,"Year 3","Grammar and Punctuation","Yes","High exposure",357,0.467787114845938,918,-27.5791510425254,13.1059123199601
+43,479,2011,"Year 3","Grammar and Punctuation","Yes","High exposure",350,0.471428571428571,918,-41.8251399354617,12.431056515989
+43,480,2012,"Year 3","Grammar and Punctuation","Yes","High exposure",349,0.449856733524355,910,-31.7480046719003,14.1635295417591
+43,481,2013,"Year 3","Grammar and Punctuation","Yes","High exposure",323,0.46749226006192,885,-41.1904857007932,14.9363089421364
+43,482,2014,"Year 3","Grammar and Punctuation","Yes","High exposure",320,0.45,898,-64.8668310562918,12.2798225630971
+43,483,2015,"Year 3","Grammar and Punctuation","Yes","High exposure",354,0.454802259887006,881,-61.3696171776845,12.3580085587338
+43,484,2016,"Year 3","Grammar and Punctuation","Yes","High exposure",381,0.459317585301837,895,-28.7037963918858,11.1700301074201
+43,485,2017,"Year 3","Grammar and Punctuation","Yes","High exposure",368,0.483695652173913,886,-35.2960514198407,12.2571074662988
+43,486,2018,"Year 3","Grammar and Punctuation","Yes","High exposure",365,0.476712328767123,895,-29.0956983415156,11.1363332699175
+43,474,2008,"Year 5","Grammar and Punctuation","Yes","High exposure",361,0.498614958448753,969,-3.19544795835463,10.8107817461947
+43,475,2009,"Year 5","Grammar and Punctuation","Yes","High exposure",358,0.46927374301676,969,5.93574081828492,11.1310672889857
+43,476,2010,"Year 5","Grammar and Punctuation","Yes","High exposure",357,0.467787114845938,918,3.41918405334677,11.3668512669106
+43,477,2011,"Year 5","Grammar and Punctuation","Yes","High exposure",350,0.471428571428571,918,-22.2139055231849,10.9689601522724
+43,478,2012,"Year 5","Grammar and Punctuation","Yes","High exposure",349,0.449856733524355,910,-20.5586912897361,11.9315410720635
+43,479,2013,"Year 5","Grammar and Punctuation","Yes","High exposure",323,0.46749226006192,885,-19.7176534579143,12.0896451864785
+43,480,2014,"Year 5","Grammar and Punctuation","Yes","High exposure",320,0.45,898,-10.4859969258245,15.3019015146829
+43,481,2015,"Year 5","Grammar and Punctuation","Yes","High exposure",354,0.454802259887006,881,-46.2414647865595,13.1935234360943
+43,482,2016,"Year 5","Grammar and Punctuation","Yes","High exposure",381,0.459317585301837,895,-34.6353863826292,11.5992552159747
+43,483,2017,"Year 5","Grammar and Punctuation","Yes","High exposure",368,0.483695652173913,886,-45.7741750579742,11.7515910910689
+43,484,2018,"Year 5","Grammar and Punctuation","Yes","High exposure",365,0.476712328767123,895,-27.8671699491399,10.9301803891998
+44,489,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",229,0.510917030567686,964,-60.6703545739984,15.442367614209
+44,490,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",194,0.515463917525773,964,-28.3530713085401,15.1929609640704
+44,491,2010,"Year 3","Grammar and Punctuation","Yes","No to low exposure",162,0.506172839506173,928,-50.9364884621379,20.8686625353548
+44,492,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",174,0.517241379310345,928,-43.5311787860488,16.1379832223583
+44,493,2012,"Year 3","Grammar and Punctuation","Yes","No to low exposure",175,0.537142857142857,913,-64.6162976590927,18.1789607347459
+44,494,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",149,0.536912751677852,918,-15.2755449340836,18.3792992019759
+44,495,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",148,0.52027027027027,901,-50.4312329573928,18.8324543873369
+44,496,2015,"Year 3","Grammar and Punctuation","Yes","No to low exposure",145,0.558620689655172,916,-30.1503088618251,18.3514347619451
+44,497,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",129,0.527131782945736,911,-42.7287165099352,18.6493045471733
+44,498,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",118,0.508474576271186,926,-2.68242349151924,22.1705615083672
+44,499,2018,"Year 3","Grammar and Punctuation","Yes","No to low exposure",123,0.471544715447154,951,-19.5915600839645,21.5298408824228
+44,487,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",229,0.510917030567686,964,-17.2123444733568,13.5376884850771
+44,488,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",194,0.515463917525773,964,-18.2508099292204,16.7863963614889
+44,489,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",162,0.506172839506173,928,-29.0948039930249,17.2640379782952
+44,490,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",174,0.517241379310345,928,-39.0822887270213,13.7900357556935
+44,491,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",175,0.537142857142857,913,-0.211557197032228,19.4669561394106
+44,492,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",149,0.536912751677852,918,-26.947018614534,16.7898660097986
+44,493,2014,"Year 5","Grammar and Punctuation","Yes","No to low exposure",148,0.52027027027027,901,-50.7161679404875,19.8631172153535
+44,494,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",145,0.558620689655172,916,6.42298836473954,19.6910229586255
+44,495,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",129,0.527131782945736,911,-53.0391612188256,19.7108802644422
+44,496,2017,"Year 5","Grammar and Punctuation","Yes","No to low exposure",118,0.508474576271186,926,-17.8201184559948,19.7583742804566
+44,497,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",123,0.471544715447154,951,-31.803694478971,19.7051079862836
+45,502,2008,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",102,0.470588235294118,948,-41.3784089216033,21.407863681102
+45,503,2009,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",110,0.518181818181818,948,-1.98027043889179,21.293876443787
+45,504,2010,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",114,0.526315789473684,943,-7.53750500646235,23.8711176565089
+45,505,2011,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",118,0.449152542372881,945,-71.2858169522197,26.856690460072
+45,506,2012,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",122,0.467213114754098,948,0.396008240004968,21.5301492794233
+45,507,2013,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",122,0.434426229508197,915,-44.517219645686,20.8426143646199
+45,508,2014,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",153,0.411764705882353,906,-39.6740546309334,18.4629597860389
+45,509,2015,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",168,0.410714285714286,907,-55.6528363556458,21.0542401140806
+45,510,2016,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",163,0.411042944785276,931,-19.2958347728414,18.0666430855183
+45,511,2017,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",171,0.456140350877193,906,-94.7893331645054,16.2743708515733
+45,512,2018,"Year 3","Grammar and Punctuation","Yes","Moderate exposure",179,0.491620111731844,931,-109.732435425873,18.0638826736511
+45,500,2008,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",102,0.470588235294118,948,-9.83660666409745,22.0507867307507
+45,501,2009,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",110,0.518181818181818,948,-56.1263189081152,14.9707461671547
+45,502,2010,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",114,0.526315789473684,943,-60.3802306784585,19.5663713774473
+45,503,2011,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",118,0.449152542372881,945,-51.099397287691,16.9273828973801
+45,504,2012,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",122,0.467213114754098,948,-37.0471100023553,19.5079523995473
+45,505,2013,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",122,0.434426229508197,915,-43.3756280078256,20.9790869658128
+45,506,2014,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",153,0.411764705882353,906,-61.3653011981354,19.9086265991795
+45,507,2015,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",168,0.410714285714286,907,-32.1766420958732,17.3810420562415
+45,508,2016,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",163,0.411042944785276,931,-27.0827706310541,16.9727778398839
+45,509,2017,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",171,0.456140350877193,906,-64.2619187894903,19.7649595462947
+45,510,2018,"Year 5","Grammar and Punctuation","Yes","Moderate exposure",179,0.491620111731844,931,-16.2012019062144,16.8929868804113
+46,513,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",26,0.423076923076923,951,-85.0299413854946,35.6741574128362
+46,515,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",26,0.5,951,-29.5580835842155,36.0405923500691
+46,513,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",26,0.5,951,-43.3994769856728,28.4233348757941
+46,514,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",32,0.5625,936,-120.994750984723,33.3741448916665
+47,519,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",48,0.395833333333333,1032,-27.21982665642,28.3298946359663
+47,520,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",42,0.404761904761905,969,-33.5864214954089,30.1911647356735
+47,521,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",29,0.482758620689655,968,-32.0422805140554,35.7491567925349
+47,522,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",25,0.44,946,2.66042535908504,30.9475701654299
+47,516,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",50,0.42,1032,-20.2642201907212,33.7564971685272
+47,517,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",48,0.395833333333333,1032,-31.6304773082324,23.7862133289033
+47,518,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",54,0.425925925925926,968,-69.3465358006955,33.1445330976268
+47,519,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",42,0.404761904761905,969,-24.0666039015349,28.4093242477746
+47,520,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",34,0.470588235294118,936,14.3617332251998,28.8835166196643
+47,521,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",35,0.542857142857143,923,-27.3950344902145,27.9430853670078
+48,525,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",87,0.494252873563218,1067,-11.9462892674559,21.3392916874688
+48,526,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",98,0.489795918367347,1067,-25.7638065115469,20.9352567076104
+48,527,2010,"Year 3","Grammar and Punctuation","Yes","No to low exposure",90,0.455555555555556,1002,20.8588272775572,30.2879998722117
+48,528,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",90,0.444444444444444,993,17.5470288855169,26.8346894468544
+48,529,2012,"Year 3","Grammar and Punctuation","Yes","No to low exposure",85,0.447058823529412,983,-23.1818525423763,25.4682233338356
+48,530,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",93,0.494623655913978,956,-25.2240013698192,30.8667834880853
+48,531,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",91,0.450549450549451,974,-52.5352256289147,21.1271021509637
+48,532,2015,"Year 3","Grammar and Punctuation","Yes","No to low exposure",88,0.397727272727273,926,-61.9731412030224,22.0374094472133
+48,533,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",86,0.383720930232558,956,-25.986207986414,25.8644231686963
+48,534,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",90,0.455555555555556,948,-33.9269145864132,20.8472540216032
+48,523,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",87,0.494252873563218,1067,-37.9212469366013,23.4320835515112
+48,524,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",98,0.489795918367347,1067,-21.036939782022,19.1017552845677
+48,525,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",90,0.455555555555556,1002,-32.2120648148247,16.6341708294533
+48,526,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",90,0.444444444444444,993,-18.5908244080996,19.0292693683033
+48,527,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",85,0.447058823529412,983,-25.1929717050549,24.820521676763
+48,528,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",93,0.494623655913978,956,-25.4335888697655,20.2255964995647
+48,529,2014,"Year 5","Grammar and Punctuation","Yes","No to low exposure",91,0.450549450549451,974,-35.4501242569608,26.5726932676241
+48,530,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",88,0.397727272727273,926,-39.3772455601123,24.0478691245707
+48,531,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",86,0.383720930232558,956,-33.7479941970943,20.2420113947067
+48,532,2017,"Year 5","Grammar and Punctuation","Yes","No to low exposure",90,0.455555555555556,948,-23.1968731451727,24.1000343015915
+48,533,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",76,0.460526315789474,970,38.3047724195858,28.5182208350605
+49,536,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",43,0.627906976744186,1079,-50.047835739032,35.5033537583654
+49,537,2010,"Year 3","Grammar and Punctuation","Yes","No to low exposure",44,0.522727272727273,997,-39.3885402504804,30.4356199160107
+49,538,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",47,0.468085106382979,998,-14.0617172146997,24.1745286023771
+49,539,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",55,0.454545454545455,952,-62.5451578937022,27.2320075331544
+49,541,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",48,0.354166666666667,969,6.12890508693717,24.673227740178
+49,542,2018,"Year 3","Grammar and Punctuation","Yes","No to low exposure",55,0.418181818181818,970,-29.1549916085326,27.0392803542884
+49,535,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",43,0.627906976744186,1079,-6.09363958098037,33.4295867565753
+49,536,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",47,0.468085106382979,998,-49.1480622881428,33.3046124362772
+49,537,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",47,0.468085106382979,990,-21.496620453275,33.343118732773
+49,538,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",55,0.454545454545455,952,-14.7711356024019,22.1169037628599
+49,539,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",38,0.421052631578947,939,2.24936375857676,28.3639242922063
+49,540,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",48,0.354166666666667,969,28.9839108186484,33.4519707762902
+49,541,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",55,0.418181818181818,970,-38.3030762768637,25.0238995539294
+50,545,2008,"Year 3","Grammar and Punctuation","Yes","No to low exposure",201,0.442786069651741,1005,-17.1012164025116,15.9906268707126
+50,546,2009,"Year 3","Grammar and Punctuation","Yes","No to low exposure",180,0.438888888888889,1005,-74.8885892234341,18.3321630342227
+50,547,2010,"Year 3","Grammar and Punctuation","Yes","No to low exposure",150,0.426666666666667,995,-12.3250279362022,18.4082071817142
+50,548,2011,"Year 3","Grammar and Punctuation","Yes","No to low exposure",128,0.484375,994,-29.3784118006373,18.3373451433088
+50,549,2012,"Year 3","Grammar and Punctuation","Yes","No to low exposure",121,0.495867768595041,988,52.5316669333935,23.7007337544187
+50,550,2013,"Year 3","Grammar and Punctuation","Yes","No to low exposure",112,0.517857142857143,968,15.7694040784465,21.580702409551
+50,551,2014,"Year 3","Grammar and Punctuation","Yes","No to low exposure",104,0.538461538461538,1004,17.0757458267291,24.6489105136823
+50,552,2015,"Year 3","Grammar and Punctuation","Yes","No to low exposure",112,0.517857142857143,997,15.1104085001668,20.882843183745
+50,553,2016,"Year 3","Grammar and Punctuation","Yes","No to low exposure",127,0.511811023622047,992,3.79466510564748,21.3885315485806
+50,554,2017,"Year 3","Grammar and Punctuation","Yes","No to low exposure",159,0.471698113207547,987,-21.0348244999394,21.3537904969399
+50,555,2018,"Year 3","Grammar and Punctuation","Yes","No to low exposure",204,0.480392156862745,994,-7.76550455272777,16.4230079432441
+50,543,2008,"Year 5","Grammar and Punctuation","Yes","No to low exposure",201,0.442786069651741,1005,-20.1239252963548,15.4544535008737
+50,544,2009,"Year 5","Grammar and Punctuation","Yes","No to low exposure",180,0.438888888888889,1005,-20.5781507047279,19.3605753541346
+50,545,2010,"Year 5","Grammar and Punctuation","Yes","No to low exposure",150,0.426666666666667,995,16.5459689289134,17.0413403534675
+50,546,2011,"Year 5","Grammar and Punctuation","Yes","No to low exposure",128,0.484375,994,-46.1788121011407,16.7985778196922
+50,547,2012,"Year 5","Grammar and Punctuation","Yes","No to low exposure",121,0.495867768595041,988,16.805686619115,17.0160438427878
+50,548,2013,"Year 5","Grammar and Punctuation","Yes","No to low exposure",112,0.517857142857143,968,1.09533637539427,19.6006387339126
+50,549,2014,"Year 5","Grammar and Punctuation","Yes","No to low exposure",104,0.538461538461538,1004,49.9154492735718,23.079848639275
+50,550,2015,"Year 5","Grammar and Punctuation","Yes","No to low exposure",112,0.517857142857143,997,-0.469320794017369,19.6713547808212
+50,551,2016,"Year 5","Grammar and Punctuation","Yes","No to low exposure",127,0.511811023622047,992,31.4928802781993,21.9842165536912
+50,552,2017,"Year 5","Grammar and Punctuation","Yes","No to low exposure",159,0.471698113207547,987,16.7763324216449,15.2497102190703
+50,553,2018,"Year 5","Grammar and Punctuation","Yes","No to low exposure",204,0.480392156862745,994,-15.7837160836279,16.5571915350247
+51,558,2008,"Year 7","Grammar and Punctuation","Yes","No to low exposure",734,0.502724795640327,1030,-24.0449742473104,6.14275524941787
+51,559,2009,"Year 7","Grammar and Punctuation","Yes","No to low exposure",744,0.489247311827957,1030,-27.495278612577,7.61406794864106
+51,560,2010,"Year 7","Grammar and Punctuation","Yes","No to low exposure",756,0.503968253968254,960,-19.3095125145563,7.38725928459572
+51,561,2011,"Year 7","Grammar and Punctuation","Yes","No to low exposure",721,0.49375866851595,958,-23.0281944102557,7.32030147769419
+51,562,2012,"Year 7","Grammar and Punctuation","Yes","No to low exposure",668,0.482035928143713,954,-34.090365474173,7.91550937744253
+51,563,2013,"Year 7","Grammar and Punctuation","Yes","No to low exposure",626,0.476038338658147,942,-29.0562634854626,7.31086299257754
+51,564,2014,"Year 7","Grammar and Punctuation","Yes","No to low exposure",629,0.488076311605723,955,-9.18175395159978,7.59140665210222
+51,565,2015,"Year 7","Grammar and Punctuation","Yes","No to low exposure",611,0.48936170212766,950,-24.0462579782348,7.93014757335807
+51,566,2016,"Year 7","Grammar and Punctuation","Yes","No to low exposure",568,0.471830985915493,956,-27.2762109021015,7.61673090978433
+51,567,2017,"Year 7","Grammar and Punctuation","Yes","No to low exposure",555,0.502702702702703,948,-18.5511629260459,8.32290204778203
+51,568,2018,"Year 7","Grammar and Punctuation","Yes","No to low exposure",548,0.509124087591241,951,-21.2524291347836,7.58483432137559
+51,556,2008,"Year 9","Grammar and Punctuation","Yes","No to low exposure",734,0.502724795640327,1030,-18.696397679894,7.295023915427
+51,557,2009,"Year 9","Grammar and Punctuation","Yes","No to low exposure",744,0.489247311827957,1030,-23.9369534157368,7.16298630791198
+51,558,2010,"Year 9","Grammar and Punctuation","Yes","No to low exposure",756,0.503968253968254,960,-25.9520069719331,6.97240378632557
+51,559,2011,"Year 9","Grammar and Punctuation","Yes","No to low exposure",721,0.49375866851595,958,-19.0924825287145,7.24527757023929
+51,560,2012,"Year 9","Grammar and Punctuation","Yes","No to low exposure",668,0.482035928143713,954,-23.4468521309854,7.2429368177689
+51,561,2013,"Year 9","Grammar and Punctuation","Yes","No to low exposure",626,0.476038338658147,942,-25.8949811051205,7.47566056090538
+51,562,2014,"Year 9","Grammar and Punctuation","Yes","No to low exposure",629,0.488076311605723,955,-45.3266128194478,7.71192454263126
+51,563,2015,"Year 9","Grammar and Punctuation","Yes","No to low exposure",611,0.48936170212766,950,-26.9046624268626,7.5497731659418
+51,564,2016,"Year 9","Grammar and Punctuation","Yes","No to low exposure",568,0.471830985915493,956,-16.7034203401033,6.94151279620538
+51,565,2017,"Year 9","Grammar and Punctuation","Yes","No to low exposure",555,0.502702702702703,948,-22.2470538381007,7.99511941607813
+51,566,2018,"Year 9","Grammar and Punctuation","Yes","No to low exposure",548,0.509124087591241,951,-23.9907905441783,7.44993810565834
+52,571,2008,"Year 7","Grammar and Punctuation","Yes","No to low exposure",408,0.458333333333333,997,-19.5236078758872,11.4495182420025
+52,572,2009,"Year 7","Grammar and Punctuation","Yes","No to low exposure",396,0.472222222222222,997,-10.1810262982791,10.5044807599058
+52,573,2010,"Year 7","Grammar and Punctuation","Yes","No to low exposure",425,0.414117647058824,971,-14.934831400144,10.6183772348105
+52,574,2011,"Year 7","Grammar and Punctuation","Yes","No to low exposure",328,0.457317073170732,967,0.21266995259587,10.3647041344708
+52,575,2012,"Year 7","Grammar and Punctuation","Yes","No to low exposure",297,0.461279461279461,963,2.54831350683882,11.5059477189319
+52,576,2013,"Year 7","Grammar and Punctuation","Yes","No to low exposure",303,0.462046204620462,949,-3.40157382357782,10.1362307844135
+52,577,2014,"Year 7","Grammar and Punctuation","Yes","No to low exposure",308,0.470779220779221,963,2.91374870233306,10.462066781397
+52,578,2015,"Year 7","Grammar and Punctuation","Yes","No to low exposure",294,0.469387755102041,956,-12.0338906987248,11.084075355065
+52,579,2016,"Year 7","Grammar and Punctuation","Yes","No to low exposure",300,0.486666666666667,953,-29.0862513036182,12.5446919664879
+52,580,2017,"Year 7","Grammar and Punctuation","Yes","No to low exposure",285,0.463157894736842,951,-9.96931803117527,13.4156098913545
+52,581,2018,"Year 7","Grammar and Punctuation","Yes","No to low exposure",292,0.431506849315068,947,-13.6178612363754,10.154918155771
+52,569,2008,"Year 9","Grammar and Punctuation","Yes","No to low exposure",408,0.458333333333333,997,-0.964537229338372,9.06992570693785
+52,570,2009,"Year 9","Grammar and Punctuation","Yes","No to low exposure",396,0.472222222222222,997,-9.67445526100925,9.57337850955911
+52,571,2010,"Year 9","Grammar and Punctuation","Yes","No to low exposure",425,0.414117647058824,971,-34.2553629847009,10.9758410137224
+52,572,2011,"Year 9","Grammar and Punctuation","Yes","No to low exposure",328,0.457317073170732,967,-16.342320824774,11.0816651324572
+52,573,2012,"Year 9","Grammar and Punctuation","Yes","No to low exposure",297,0.461279461279461,963,-4.95253848761028,11.6158511149268
+52,574,2013,"Year 9","Grammar and Punctuation","Yes","No to low exposure",303,0.462046204620462,949,-4.49616052508873,11.2352526866144
+52,575,2014,"Year 9","Grammar and Punctuation","Yes","No to low exposure",308,0.470779220779221,963,7.59227746724695,10.7615469670684
+52,576,2015,"Year 9","Grammar and Punctuation","Yes","No to low exposure",294,0.469387755102041,956,-15.4017649141637,10.1410260836686
+52,577,2016,"Year 9","Grammar and Punctuation","Yes","No to low exposure",300,0.486666666666667,953,-2.31954552670411,11.3979985828499
+52,578,2017,"Year 9","Grammar and Punctuation","Yes","No to low exposure",285,0.463157894736842,951,-20.7819687866353,10.5165570948714
+52,579,2018,"Year 9","Grammar and Punctuation","Yes","No to low exposure",292,0.431506849315068,947,-15.5748589974069,12.0797693105239
+53,584,2008,"Year 7","Grammar and Punctuation","Yes","High exposure",1005,0.483582089552239,985,-21.9499173493577,5.92698907041702
+53,585,2009,"Year 7","Grammar and Punctuation","Yes","High exposure",1138,0.482425307557118,985,-20.316867151479,5.58795764808157
+53,586,2010,"Year 7","Grammar and Punctuation","Yes","High exposure",1170,0.482051282051282,956,-9.81101090116285,6.08035669246321
+53,587,2011,"Year 7","Grammar and Punctuation","Yes","High exposure",1348,0.462166172106825,961,-29.4739549358244,7.7996032802908
+53,588,2012,"Year 7","Grammar and Punctuation","Yes","High exposure",1266,0.473143759873618,955,-20.0390598212423,8.05265962121128
+53,589,2013,"Year 7","Grammar and Punctuation","Yes","High exposure",1125,0.496,944,-50.5049139786173,8.24123439029159
+53,590,2014,"Year 7","Grammar and Punctuation","Yes","High exposure",1174,0.506814310051107,955,-38.9609330572408,8.27732903642119
+53,591,2015,"Year 7","Grammar and Punctuation","Yes","High exposure",1148,0.508710801393728,936,-37.4706161112854,6.17214366722191
+53,592,2016,"Year 7","Grammar and Punctuation","Yes","High exposure",1148,0.51219512195122,937,-17.0681041854755,6.19033485975244
+53,593,2017,"Year 7","Grammar and Punctuation","Yes","High exposure",1159,0.514236410698878,938,-22.4169414044834,5.98725871355898
+53,594,2018,"Year 7","Grammar and Punctuation","Yes","High exposure",1130,0.490265486725664,933,-48.0819148631367,7.28811388393223
+53,582,2008,"Year 9","Grammar and Punctuation","Yes","High exposure",1005,0.483582089552239,985,-22.4529842304079,6.26468611267122
+53,583,2009,"Year 9","Grammar and Punctuation","Yes","High exposure",1138,0.482425307557118,985,-8.60984631608423,6.12914648015158
+53,584,2010,"Year 9","Grammar and Punctuation","Yes","High exposure",1170,0.482051282051282,956,-37.7202812785496,6.01272047752368
+53,585,2011,"Year 9","Grammar and Punctuation","Yes","High exposure",1348,0.462166172106825,961,-32.2445138132912,7.78435805063199
+53,586,2012,"Year 9","Grammar and Punctuation","Yes","High exposure",1266,0.473143759873618,955,-38.1347361054837,7.65174957390385
+53,587,2013,"Year 9","Grammar and Punctuation","Yes","High exposure",1125,0.496,944,-45.57742250907,8.42216490987695
+53,588,2014,"Year 9","Grammar and Punctuation","Yes","High exposure",1174,0.506814310051107,955,-13.8611514477172,7.95286337715801
+53,589,2015,"Year 9","Grammar and Punctuation","Yes","High exposure",1148,0.508710801393728,936,-34.2032591885568,7.05853983444853
+53,590,2016,"Year 9","Grammar and Punctuation","Yes","High exposure",1148,0.51219512195122,937,-30.8164226262075,7.31609242155421
+53,591,2017,"Year 9","Grammar and Punctuation","Yes","High exposure",1159,0.514236410698878,938,-27.5221750113165,7.18686496078744
+53,592,2018,"Year 9","Grammar and Punctuation","Yes","High exposure",1130,0.490265486725664,933,-23.0813558566222,7.25225391351264
+54,597,2008,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",1047,0.500477554918816,1004,-13.7534570520174,6.06843154466923
+54,598,2009,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",1054,0.50853889943074,1004,-21.2267802413354,6.00365363874888
+54,599,2010,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",1043,0.503355704697987,953,-14.1524160576053,6.12799387028984
+54,600,2011,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",1045,0.479425837320574,955,-23.0034557092467,6.07665941548215
+54,601,2012,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",1038,0.473988439306358,951,-22.3865467174047,6.02114807157968
+54,602,2013,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",1034,0.484526112185687,945,-24.9640646782038,7.6133341556469
+54,603,2014,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",1014,0.481262327416174,945,-27.137722617152,6.05475243247095
+54,604,2015,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",967,0.486039296794209,951,-22.6894742586006,6.17895288249935
+54,605,2016,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",933,0.490889603429796,946,-29.3892905838995,6.11085271566364
+54,606,2017,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",894,0.48993288590604,946,-18.3113873729507,7.38225751148159
+54,607,2018,"Year 7","Grammar and Punctuation","Yes","Moderate exposure",861,0.531939605110337,947,-25.3238839609189,6.23421040970536
+54,595,2008,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",1047,0.500477554918816,1004,-27.0797504786832,6.22705178623102
+54,596,2009,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",1054,0.50853889943074,1004,-27.2672581334027,5.80829314773852
+54,597,2010,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",1043,0.503355704697987,953,-21.1740880955243,6.09710529389528
+54,598,2011,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",1045,0.479425837320574,955,-25.2548034278369,5.67159090523471
+54,599,2012,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",1038,0.473988439306358,951,-16.18199872764,6.19749103821552
+54,600,2013,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",1034,0.484526112185687,945,-21.1973902245528,5.83725413528264
+54,601,2014,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",1014,0.481262327416174,945,-35.2838820412243,6.31840317013158
+54,602,2015,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",967,0.486039296794209,951,-25.8281924070724,6.97750200193459
+54,603,2016,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",933,0.490889603429796,946,-29.9565713589741,5.57730671770098
+54,604,2017,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",894,0.48993288590604,946,-17.6737418296455,7.47643766984779
+54,605,2018,"Year 9","Grammar and Punctuation","Yes","Moderate exposure",861,0.531939605110337,947,-20.7717455244979,5.64519596940159
+55,610,2008,"Year 3","Grammar and Punctuation","No","High exposure",108,0.490740740740741,978,-37.7351238635092,21.7878403623958
+55,611,2009,"Year 3","Grammar and Punctuation","No","High exposure",101,0.514851485148515,978,46.6920837001045,21.3840497477734
+55,613,2011,"Year 3","Grammar and Punctuation","No","High exposure",99,0.505050505050505,976,-10.0909516347861,22.3894683079935
+55,614,2012,"Year 3","Grammar and Punctuation","No","High exposure",107,0.439252336448598,974,-93.2110971680461,21.395661642693
+55,615,2013,"Year 3","Grammar and Punctuation","No","High exposure",129,0.449612403100775,945,-93.4399321316127,16.1659354087089
+55,616,2014,"Year 3","Grammar and Punctuation","No","High exposure",129,0.426356589147287,962,-51.107384705256,23.2141589780043
+55,617,2015,"Year 3","Grammar and Punctuation","No","High exposure",131,0.404580152671756,947,-65.4318076712343,18.4862002724414
+55,618,2016,"Year 3","Grammar and Punctuation","No","High exposure",125,0.432,956,-59.3474239160199,20.8040134708441
+55,619,2017,"Year 3","Grammar and Punctuation","No","High exposure",114,0.43859649122807,957,-31.4872194108863,18.1519953696022
+55,620,2018,"Year 3","Grammar and Punctuation","No","High exposure",118,0.491525423728814,946,-72.3513252915968,26.8819600645157
+55,608,2008,"Year 5","Grammar and Punctuation","No","High exposure",108,0.490740740740741,978,10.5377419263344,19.455982543685
+55,609,2009,"Year 5","Grammar and Punctuation","No","High exposure",101,0.514851485148515,978,-7.60383873690834,17.0063324896129
+55,610,2010,"Year 5","Grammar and Punctuation","No","High exposure",108,0.481481481481481,976,-43.8323586853931,21.9792256427868
+55,611,2011,"Year 5","Grammar and Punctuation","No","High exposure",99,0.505050505050505,976,-42.0412688134996,19.5817843118468
+55,612,2012,"Year 5","Grammar and Punctuation","No","High exposure",107,0.439252336448598,974,-154.859847429124,31.1862222094601
+55,613,2013,"Year 5","Grammar and Punctuation","No","High exposure",129,0.449612403100775,945,19.4986152794489,25.0616545059826
+55,614,2014,"Year 5","Grammar and Punctuation","No","High exposure",129,0.426356589147287,962,-65.4214826578296,19.7203091819293
+55,615,2015,"Year 5","Grammar and Punctuation","No","High exposure",131,0.404580152671756,947,-51.6648089649607,17.0468343669137
+55,616,2016,"Year 5","Grammar and Punctuation","No","High exposure",125,0.432,956,-18.76698303496,20.5063912037414
+55,617,2017,"Year 5","Grammar and Punctuation","No","High exposure",114,0.43859649122807,957,-28.2125642881766,19.4906807027098
+55,618,2018,"Year 5","Grammar and Punctuation","No","High exposure",118,0.491525423728814,946,-35.3946595896863,17.2817545884104
+56,623,2008,"Year 3","Grammar and Punctuation","No","Moderate exposure",377,0.474801061007958,1029,15.4909164952574,11.5644789009762
+56,624,2009,"Year 3","Grammar and Punctuation","No","Moderate exposure",371,0.487870619946092,1029,-8.75129547312077,13.4007068935297
+56,625,2010,"Year 3","Grammar and Punctuation","No","Moderate exposure",350,0.482857142857143,1047,21.264545139065,13.4045257608274
+56,626,2011,"Year 3","Grammar and Punctuation","No","Moderate exposure",354,0.466101694915254,1046,28.8319140652577,11.9742193222325
+56,627,2012,"Year 3","Grammar and Punctuation","No","Moderate exposure",346,0.456647398843931,1040,6.07564804097075,10.8563887841919
+56,628,2013,"Year 3","Grammar and Punctuation","No","Moderate exposure",356,0.455056179775281,1048,20.9719370497533,12.7711147051494
+56,629,2014,"Year 3","Grammar and Punctuation","No","Moderate exposure",381,0.467191601049869,1050,42.5179249242567,12.0289496700042
+56,630,2015,"Year 3","Grammar and Punctuation","No","Moderate exposure",373,0.49597855227882,1051,34.4378647746552,11.572011204049
+56,631,2016,"Year 3","Grammar and Punctuation","No","Moderate exposure",378,0.515873015873016,1044,1.72647350357404,12.0620089737972
+56,632,2017,"Year 3","Grammar and Punctuation","No","Moderate exposure",386,0.49740932642487,1044,36.2279281060711,11.9781309205725
+56,633,2018,"Year 3","Grammar and Punctuation","No","Moderate exposure",406,0.517241379310345,1048,25.9876149733052,11.8164049863473
+56,621,2008,"Year 5","Grammar and Punctuation","No","Moderate exposure",377,0.474801061007958,1029,15.598131046519,10.4737461139809
+56,622,2009,"Year 5","Grammar and Punctuation","No","Moderate exposure",371,0.487870619946092,1029,8.60607173832528,10.717883781779
+56,623,2010,"Year 5","Grammar and Punctuation","No","Moderate exposure",350,0.482857142857143,1047,12.5524076679103,10.6331853018729
+56,624,2011,"Year 5","Grammar and Punctuation","No","Moderate exposure",354,0.466101694915254,1046,-6.45726943596126,12.0652720466807
+56,625,2012,"Year 5","Grammar and Punctuation","No","Moderate exposure",346,0.456647398843931,1040,-2.47287064576752,12.276128214208
+56,626,2013,"Year 5","Grammar and Punctuation","No","Moderate exposure",356,0.455056179775281,1048,20.1728290924783,11.6695523913402
+56,627,2014,"Year 5","Grammar and Punctuation","No","Moderate exposure",381,0.467191601049869,1050,-3.36270886611381,11.3558933572182
+56,628,2015,"Year 5","Grammar and Punctuation","No","Moderate exposure",373,0.49597855227882,1051,25.8718405798411,10.9083291359276
+56,629,2016,"Year 5","Grammar and Punctuation","No","Moderate exposure",378,0.515873015873016,1044,24.480740964244,11.0910832149683
+56,630,2017,"Year 5","Grammar and Punctuation","No","Moderate exposure",386,0.49740932642487,1044,26.2176279560035,10.8938966689149
+56,631,2018,"Year 5","Grammar and Punctuation","No","Moderate exposure",406,0.517241379310345,1048,6.95111733546526,10.9079422120027
+57,636,2008,"Year 3","Grammar and Punctuation","No","No to low exposure",171,0.508771929824561,1048,-1.4127140256539,16.4696832556402
+57,637,2009,"Year 3","Grammar and Punctuation","No","No to low exposure",165,0.509090909090909,1048,-4.87714073445492,18.3580614320184
+57,638,2010,"Year 3","Grammar and Punctuation","No","No to low exposure",154,0.545454545454545,1015,5.45954240791618,18.2000107343964
+57,639,2011,"Year 3","Grammar and Punctuation","No","No to low exposure",149,0.536912751677852,1016,34.900129194826,18.3578175407109
+57,640,2012,"Year 3","Grammar and Punctuation","No","No to low exposure",164,0.573170731707317,1010,11.6768035060275,18.7104539646062
+57,641,2013,"Year 3","Grammar and Punctuation","No","No to low exposure",166,0.536144578313253,1012,-4.37652994886244,17.9343365647983
+57,642,2014,"Year 3","Grammar and Punctuation","No","No to low exposure",165,0.551515151515152,1003,9.56912869100049,22.4073049665408
+57,643,2015,"Year 3","Grammar and Punctuation","No","No to low exposure",158,0.531645569620253,1004,-16.6898306462803,14.8379531555084
+57,644,2016,"Year 3","Grammar and Punctuation","No","No to low exposure",159,0.515723270440252,1009,-14.1468267794511,18.5099371510674
+57,645,2017,"Year 3","Grammar and Punctuation","No","No to low exposure",167,0.48502994011976,1025,25.4496216104517,21.1841143262223
+57,646,2018,"Year 3","Grammar and Punctuation","No","No to low exposure",174,0.482758620689655,1036,20.2497565288673,17.9994542202499
+57,634,2008,"Year 5","Grammar and Punctuation","No","No to low exposure",171,0.508771929824561,1048,3.5942998222374,17.1266001042821
+57,635,2009,"Year 5","Grammar and Punctuation","No","No to low exposure",165,0.509090909090909,1048,-15.9738342332196,19.5350194222809
+57,636,2010,"Year 5","Grammar and Punctuation","No","No to low exposure",154,0.545454545454545,1015,-3.8279745713249,15.5235366234391
+57,637,2011,"Year 5","Grammar and Punctuation","No","No to low exposure",149,0.536912751677852,1016,-17.750472469861,14.9398050978548
+57,638,2012,"Year 5","Grammar and Punctuation","No","No to low exposure",164,0.573170731707317,1010,-9.43249510022557,17.0571588080407
+57,639,2013,"Year 5","Grammar and Punctuation","No","No to low exposure",166,0.536144578313253,1012,19.1224595875938,17.2122882405449
+57,640,2014,"Year 5","Grammar and Punctuation","No","No to low exposure",165,0.551515151515152,1003,12.9913639565947,17.0236866891666
+57,641,2015,"Year 5","Grammar and Punctuation","No","No to low exposure",158,0.531645569620253,1004,26.4147558467567,17.3696839954572
+57,642,2016,"Year 5","Grammar and Punctuation","No","No to low exposure",159,0.515723270440252,1009,8.67791522180582,19.2392287024557
+57,643,2017,"Year 5","Grammar and Punctuation","No","No to low exposure",167,0.48502994011976,1025,-19.7132681292011,15.6253937498725
+57,644,2018,"Year 5","Grammar and Punctuation","No","No to low exposure",174,0.482758620689655,1036,17.359081572421,17.3980841278636
+58,649,2008,"Year 7","Grammar and Punctuation","No","No to low exposure",903,0.542635658914729,1036,16.9503731904276,6.30495937590807
+58,650,2009,"Year 7","Grammar and Punctuation","No","No to low exposure",937,0.504802561366062,1036,7.91440937249048,6.03434180863674
+58,651,2010,"Year 7","Grammar and Punctuation","No","No to low exposure",925,0.503783783783784,987,13.9936652975097,6.0431825697751
+58,652,2011,"Year 7","Grammar and Punctuation","No","No to low exposure",930,0.505376344086022,1002,8.57859222792809,6.42732148309803
+58,653,2012,"Year 7","Grammar and Punctuation","No","No to low exposure",964,0.477178423236515,990,3.76046991028542,6.14163991034164
+58,654,2013,"Year 7","Grammar and Punctuation","No","No to low exposure",961,0.502601456815817,916,-2.21438039089938,6.25173998275382
+58,655,2014,"Year 7","Grammar and Punctuation","No","No to low exposure",918,0.504357298474945,922,4.80423481463564,7.34358803430133
+58,656,2015,"Year 7","Grammar and Punctuation","No","No to low exposure",874,0.495423340961098,995,-4.24812867938951,7.70889535486878
+58,657,2016,"Year 7","Grammar and Punctuation","No","No to low exposure",864,0.502314814814815,917,2.84723479299915,6.16239181938952
+58,658,2017,"Year 7","Grammar and Punctuation","No","No to low exposure",825,0.506666666666667,1000,2.98336101005782,7.13492454002867
+58,659,2018,"Year 7","Grammar and Punctuation","No","No to low exposure",791,0.491782553729456,997,-6.86910884325018,7.03815053286059
+58,647,2008,"Year 9","Grammar and Punctuation","No","No to low exposure",903,0.542635658914729,1036,3.53168224632467,6.2131103698781
+58,648,2009,"Year 9","Grammar and Punctuation","No","No to low exposure",937,0.504802561366062,1036,10.392308139378,6.00134270124266
+58,649,2010,"Year 9","Grammar and Punctuation","No","No to low exposure",925,0.503783783783784,987,9.51586551875046,6.06396489995052
+58,650,2011,"Year 9","Grammar and Punctuation","No","No to low exposure",930,0.505376344086022,1002,-2.71920102509999,6.00200395940404
+58,651,2012,"Year 9","Grammar and Punctuation","No","No to low exposure",964,0.477178423236515,990,-13.8455406147202,5.79241091648081
+58,652,2013,"Year 9","Grammar and Punctuation","No","No to low exposure",961,0.502601456815817,916,-2.82267122026935,5.89117297511815
+58,653,2014,"Year 9","Grammar and Punctuation","No","No to low exposure",918,0.504357298474945,922,-5.08486144811941,5.54750578614207
+58,654,2015,"Year 9","Grammar and Punctuation","No","No to low exposure",874,0.495423340961098,995,-9.18737769375062,7.2409080930203
+58,655,2016,"Year 9","Grammar and Punctuation","No","No to low exposure",864,0.502314814814815,917,0.566076130542652,7.20230128660841
+58,656,2017,"Year 9","Grammar and Punctuation","No","No to low exposure",825,0.506666666666667,1000,-9.22910592876354,7.1270066954669
+58,657,2018,"Year 9","Grammar and Punctuation","No","No to low exposure",791,0.491782553729456,997,-8.20350559668971,7.62782603951287
+59,662,2008,"Year 3","Grammar and Punctuation","No","No to low exposure",110,0.518181818181818,998,16.2947254350646,21.442457137569
+59,663,2009,"Year 3","Grammar and Punctuation","No","No to low exposure",120,0.5,998,-18.4321597344645,18.209109797153
+59,664,2010,"Year 3","Grammar and Punctuation","No","No to low exposure",118,0.559322033898305,1004,-1.66317269461137,21.1854767809877
+59,665,2011,"Year 3","Grammar and Punctuation","No","No to low exposure",122,0.508196721311475,1004,-13.6250322791329,23.7828214295884
+59,666,2012,"Year 3","Grammar and Punctuation","No","No to low exposure",107,0.457943925233645,1006,-19.9202625902125,23.632490350255
+59,667,2013,"Year 3","Grammar and Punctuation","No","No to low exposure",82,0.463414634146341,1013,8.84469117890405,25.7883737772323
+59,668,2014,"Year 3","Grammar and Punctuation","No","No to low exposure",75,0.44,997,-14.8554357262953,21.1565535019664
+59,669,2015,"Year 3","Grammar and Punctuation","No","No to low exposure",76,0.447368421052632,1006,33.9581356608715,28.7687370381858
+59,670,2016,"Year 3","Grammar and Punctuation","No","No to low exposure",71,0.52112676056338,974,-104.244909208075,23.6450206412818
+59,671,2017,"Year 3","Grammar and Punctuation","No","No to low exposure",81,0.518518518518518,960,-156.129442672614,32.7796393126731
+59,672,2018,"Year 3","Grammar and Punctuation","No","No to low exposure",69,0.536231884057971,967,-20.9169331083363,28.7313821155102
+59,660,2008,"Year 5","Grammar and Punctuation","No","No to low exposure",110,0.518181818181818,998,-24.1518926005233,20.7900115850173
+59,661,2009,"Year 5","Grammar and Punctuation","No","No to low exposure",120,0.5,998,-8.58574587921786,21.1888881213946
+59,662,2010,"Year 5","Grammar and Punctuation","No","No to low exposure",118,0.559322033898305,1004,6.92224071911391,19.6191961769978
+59,663,2011,"Year 5","Grammar and Punctuation","No","No to low exposure",122,0.508196721311475,1004,3.41501343473272,17.0010442658954
+59,664,2012,"Year 5","Grammar and Punctuation","No","No to low exposure",107,0.457943925233645,1006,2.6407049580835,19.4168984032122
+59,665,2013,"Year 5","Grammar and Punctuation","No","No to low exposure",82,0.463414634146341,1013,-10.2406580767692,26.6756547274269
+59,666,2014,"Year 5","Grammar and Punctuation","No","No to low exposure",75,0.44,997,-30.6338948561444,21.7508664496833
+59,667,2015,"Year 5","Grammar and Punctuation","No","No to low exposure",76,0.447368421052632,1006,13.9507122688325,25.1555968435064
+59,668,2016,"Year 5","Grammar and Punctuation","No","No to low exposure",71,0.52112676056338,974,-5.67058011811695,21.020609988763
+59,669,2017,"Year 5","Grammar and Punctuation","No","No to low exposure",81,0.518518518518518,960,1.47605765044337,23.8732022017038
+59,670,2018,"Year 5","Grammar and Punctuation","No","No to low exposure",69,0.536231884057971,967,-37.2629947053379,22.9591794628889
+60,675,2008,"Year 3","Grammar and Punctuation","No","No to low exposure",133,0.496240601503759,1033,-10.7418735407581,18.1516172459332
+60,676,2009,"Year 3","Grammar and Punctuation","No","No to low exposure",127,0.496062992125984,1033,-4.2757235505534,18.1545957905108
+60,677,2010,"Year 3","Grammar and Punctuation","No","No to low exposure",115,0.51304347826087,1009,12.6443003898505,23.7191253864893
+60,678,2011,"Year 3","Grammar and Punctuation","No","No to low exposure",108,0.509259259259259,1008,20.5894427757098,21.2028954394219
+60,679,2012,"Year 3","Grammar and Punctuation","No","No to low exposure",115,0.521739130434783,995,16.064092023054,23.8951051359595
+60,680,2013,"Year 3","Grammar and Punctuation","No","No to low exposure",109,0.522935779816514,998,49.0025552825775,21.0898928693654
+60,681,2014,"Year 3","Grammar and Punctuation","No","No to low exposure",120,0.508333333333333,980,14.6566324685711,21.3571679762151
+60,682,2015,"Year 3","Grammar and Punctuation","No","No to low exposure",114,0.464912280701754,1022,17.1473596397623,21.0942020486454
+60,683,2016,"Year 3","Grammar and Punctuation","No","No to low exposure",119,0.478991596638655,1007,17.6597402133947,23.8289617824135
+60,684,2017,"Year 3","Grammar and Punctuation","No","No to low exposure",129,0.457364341085271,1025,8.86613730771248,21.3193651459537
+60,685,2018,"Year 3","Grammar and Punctuation","No","No to low exposure",125,0.44,1027,88.8101951331082,21.3044122203094
+60,673,2008,"Year 5","Grammar and Punctuation","No","No to low exposure",133,0.496240601503759,1033,-35.3032137227769,20.5087971603835
+60,674,2009,"Year 5","Grammar and Punctuation","No","No to low exposure",127,0.496062992125984,1033,38.3959131514022,19.5563027275884
+60,675,2010,"Year 5","Grammar and Punctuation","No","No to low exposure",115,0.51304347826087,1009,-19.2797723172803,19.4600823789781
+60,676,2011,"Year 5","Grammar and Punctuation","No","No to low exposure",108,0.509259259259259,1008,39.2147577509043,16.9454347732061
+60,677,2012,"Year 5","Grammar and Punctuation","No","No to low exposure",115,0.521739130434783,995,14.8638723672763,23.5932153148283
+60,678,2013,"Year 5","Grammar and Punctuation","No","No to low exposure",109,0.522935779816514,998,18.2583061638208,19.9050241249705
+60,679,2014,"Year 5","Grammar and Punctuation","No","No to low exposure",120,0.508333333333333,980,18.222631293349,22.5707184063113
+60,680,2015,"Year 5","Grammar and Punctuation","No","No to low exposure",114,0.464912280701754,1022,44.1666882374869,19.6017454871339
+60,681,2016,"Year 5","Grammar and Punctuation","No","No to low exposure",119,0.478991596638655,1007,-15.2365124819341,19.7586538410634
+60,682,2017,"Year 5","Grammar and Punctuation","No","No to low exposure",129,0.457364341085271,1025,22.0960697254041,19.5099299875222
+60,683,2018,"Year 5","Grammar and Punctuation","No","No to low exposure",125,0.44,1027,-15.8223136369181,21.2159898415796
+61,688,2008,"Year 3","Grammar and Punctuation","No","Moderate exposure",119,0.487394957983193,985,-13.9455671427127,21.2130396460123
+61,689,2009,"Year 3","Grammar and Punctuation","No","Moderate exposure",123,0.447154471544715,985,-33.6109046564348,17.9126372598514
+61,690,2010,"Year 3","Grammar and Punctuation","No","Moderate exposure",127,0.401574803149606,1001,22.0810966250083,21.0491037209208
+61,691,2011,"Year 3","Grammar and Punctuation","No","Moderate exposure",129,0.387596899224806,995,-18.1883823946917,21.8358223546332
+61,692,2012,"Year 3","Grammar and Punctuation","No","Moderate exposure",134,0.402985074626866,985,14.9058319133369,21.5854940398428
+61,693,2013,"Year 3","Grammar and Punctuation","No","Moderate exposure",136,0.419117647058824,955,-9.51019513049972,22.5536144676518
+61,694,2014,"Year 3","Grammar and Punctuation","No","Moderate exposure",128,0.40625,962,-16.6827179951442,21.0367309978102
+61,695,2015,"Year 3","Grammar and Punctuation","No","Moderate exposure",127,0.37007874015748,988,-26.3114928917053,18.0924125764764
+61,696,2016,"Year 3","Grammar and Punctuation","No","Moderate exposure",119,0.420168067226891,1002,-18.3554943572486,21.1472734997107
+61,697,2017,"Year 3","Grammar and Punctuation","No","Moderate exposure",115,0.426086956521739,1004,-8.1403747418133,25.616798249532
+61,698,2018,"Year 3","Grammar and Punctuation","No","Moderate exposure",113,0.451327433628319,1010,4.48805613954201,21.2229917112062
+61,686,2008,"Year 5","Grammar and Punctuation","No","Moderate exposure",119,0.487394957983193,985,36.3220205847828,21.4894925401264
+61,687,2009,"Year 5","Grammar and Punctuation","No","Moderate exposure",123,0.447154471544715,985,50.9425590997391,23.2792624497858
+61,688,2010,"Year 5","Grammar and Punctuation","No","Moderate exposure",127,0.401574803149606,1001,45.4334288393112,19.2967265418926
+61,689,2011,"Year 5","Grammar and Punctuation","No","Moderate exposure",129,0.387596899224806,995,-3.54869953525019,19.4953570425908
+61,690,2012,"Year 5","Grammar and Punctuation","No","Moderate exposure",134,0.402985074626866,985,32.5920104583717,21.3720707914259
+61,691,2013,"Year 5","Grammar and Punctuation","No","Moderate exposure",136,0.419117647058824,955,17.7891854842373,19.8415772653577
+61,692,2014,"Year 5","Grammar and Punctuation","No","Moderate exposure",128,0.40625,962,4.65145109500437,19.4873176664229
+61,693,2015,"Year 5","Grammar and Punctuation","No","Moderate exposure",127,0.37007874015748,988,14.2919589801043,21.8177491511321
+61,694,2016,"Year 5","Grammar and Punctuation","No","Moderate exposure",119,0.420168067226891,1002,5.16383990459948,20.016369281037
+61,695,2017,"Year 5","Grammar and Punctuation","No","Moderate exposure",115,0.426086956521739,1004,-1.96958632654802,16.9796647037563
+61,696,2018,"Year 5","Grammar and Punctuation","No","Moderate exposure",113,0.451327433628319,1010,3.76254822446064,19.599156709071
+62,701,2008,"Year 3","Grammar and Punctuation","No","No to low exposure",76,0.486842105263158,1033,-36.8174249946193,28.5720052035316
+62,702,2009,"Year 3","Grammar and Punctuation","No","No to low exposure",75,0.48,1033,30.6516836149315,30.1966541352941
+62,703,2010,"Year 3","Grammar and Punctuation","No","No to low exposure",79,0.430379746835443,985,-44.5554457069148,21.4692392658001
+62,704,2011,"Year 3","Grammar and Punctuation","No","No to low exposure",74,0.405405405405405,985,1.62835568534924,25.6746932503639
+62,705,2012,"Year 3","Grammar and Punctuation","No","No to low exposure",71,0.422535211267606,984,-20.6859247424319,22.5157917543761
+62,706,2014,"Year 3","Grammar and Punctuation","No","No to low exposure",60,0.35,970,-68.3254680757736,26.7904062192309
+62,707,2015,"Year 3","Grammar and Punctuation","No","No to low exposure",59,0.322033898305085,995,-35.6268154641537,28.8483718353995
+62,708,2016,"Year 3","Grammar and Punctuation","No","No to low exposure",53,0.377358490566038,985,5.48084600320636,24.6337280140909
+62,709,2018,"Year 3","Grammar and Punctuation","No","No to low exposure",52,0.423076923076923,988,-49.5028389268322,35.9666227745203
+62,699,2008,"Year 5","Grammar and Punctuation","No","No to low exposure",76,0.486842105263158,1033,-47.0088874830893,24.0100068321515
+62,700,2009,"Year 5","Grammar and Punctuation","No","No to low exposure",75,0.48,1033,-1.31894008966554,19.4944628667032
+62,701,2010,"Year 5","Grammar and Punctuation","No","No to low exposure",79,0.430379746835443,985,-59.1907612067169,28.7981379741656
+62,702,2011,"Year 5","Grammar and Punctuation","No","No to low exposure",74,0.405405405405405,985,48.7072542978711,30.8998195050197
+62,703,2012,"Year 5","Grammar and Punctuation","No","No to low exposure",71,0.422535211267606,984,-73.3119138381902,21.1523089545486
+62,704,2013,"Year 5","Grammar and Punctuation","No","No to low exposure",59,0.389830508474576,984,-7.06791859625256,28.8231837160771
+62,705,2014,"Year 5","Grammar and Punctuation","No","No to low exposure",60,0.35,970,-13.7252538085021,22.3403057138738
+62,706,2016,"Year 5","Grammar and Punctuation","No","No to low exposure",53,0.377358490566038,985,-74.7656358427921,26.8085014433813
+62,707,2017,"Year 5","Grammar and Punctuation","No","No to low exposure",56,0.446428571428571,1013,-35.240734738536,23.0355623037733
+62,708,2018,"Year 5","Grammar and Punctuation","No","No to low exposure",52,0.423076923076923,988,-57.8137141506422,26.7328991845435
+63,712,2008,"Year 3","Grammar and Punctuation","No","Moderate exposure",137,0.525547445255474,1004,-19.8107843611229,18.145728127305
+63,713,2009,"Year 3","Grammar and Punctuation","No","Moderate exposure",138,0.543478260869565,1004,-18.4621297651344,21.2745834570329
+63,714,2010,"Year 3","Grammar and Punctuation","No","Moderate exposure",149,0.523489932885906,1001,-44.1690650040111,18.2137859254096
+63,715,2011,"Year 3","Grammar and Punctuation","No","Moderate exposure",178,0.544943820224719,1001,9.13133250625452,16.3085450246187
+63,716,2012,"Year 3","Grammar and Punctuation","No","Moderate exposure",166,0.590361445783133,998,7.9971488096068,21.8280068964973
+63,717,2013,"Year 3","Grammar and Punctuation","No","Moderate exposure",177,0.570621468926554,1022,59.5557938602302,18.4644040938357
+63,718,2014,"Year 3","Grammar and Punctuation","No","Moderate exposure",182,0.565934065934066,1017,52.7907597577248,13.048656218387
+63,719,2015,"Year 3","Grammar and Punctuation","No","Moderate exposure",186,0.537634408602151,1009,-7.38013229952104,18.6410670792865
+63,720,2016,"Year 3","Grammar and Punctuation","No","Moderate exposure",184,0.521739130434783,1010,-18.0632711441627,15.422352934247
+63,721,2017,"Year 3","Grammar and Punctuation","No","Moderate exposure",172,0.523255813953488,998,3.887643878929,18.0619823739023
+63,722,2018,"Year 3","Grammar and Punctuation","No","Moderate exposure",167,0.514970059880239,1003,-20.1367223591072,17.9723683822919
+63,710,2008,"Year 5","Grammar and Punctuation","No","Moderate exposure",137,0.525547445255474,1004,39.6342066618374,19.4035040649591
+63,711,2009,"Year 5","Grammar and Punctuation","No","Moderate exposure",138,0.543478260869565,1004,-13.8203107748997,19.0962081016942
+63,712,2010,"Year 5","Grammar and Punctuation","No","Moderate exposure",149,0.523489932885906,1001,-8.72001536801238,17.4580609385524
+63,713,2011,"Year 5","Grammar and Punctuation","No","Moderate exposure",178,0.544943820224719,1001,-19.3291777314291,17.0146161558832
+63,714,2012,"Year 5","Grammar and Punctuation","No","Moderate exposure",166,0.590361445783133,998,-31.6934091490796,17.1318895820254
+63,715,2013,"Year 5","Grammar and Punctuation","No","Moderate exposure",177,0.570621468926554,1022,41.299752138476,17.0810356957811
+63,716,2014,"Year 5","Grammar and Punctuation","No","Moderate exposure",182,0.565934065934066,1017,8.75098147726677,20.4390646186705
+63,717,2015,"Year 5","Grammar and Punctuation","No","Moderate exposure",186,0.537634408602151,1009,33.8471783700522,17.2786808096866
+63,718,2016,"Year 5","Grammar and Punctuation","No","Moderate exposure",184,0.521739130434783,1010,32.7309568555019,13.7413746963521
+63,719,2017,"Year 5","Grammar and Punctuation","No","Moderate exposure",172,0.523255813953488,998,-22.0758958822599,19.5447568126688
+63,720,2018,"Year 5","Grammar and Punctuation","No","Moderate exposure",167,0.514970059880239,1003,-4.70075130666751,14.0275165891645
+64,725,2008,"Year 3","Grammar and Punctuation","No","High exposure",274,0.532846715328467,979,9.37897981999606,13.5398074583359
+64,726,2009,"Year 3","Grammar and Punctuation","No","High exposure",269,0.472118959107807,979,22.375780014934,13.9031101348501
+64,727,2010,"Year 3","Grammar and Punctuation","No","High exposure",260,0.473076923076923,992,-62.3049665590548,13.8642200137703
+64,728,2011,"Year 3","Grammar and Punctuation","No","High exposure",242,0.466942148760331,994,0.620159317540136,15.482032199412
+64,729,2012,"Year 3","Grammar and Punctuation","No","High exposure",238,0.449579831932773,984,-47.0288178506517,18.1400349959501
+64,730,2013,"Year 3","Grammar and Punctuation","No","High exposure",236,0.48728813559322,942,-25.0600581430482,13.6268959677188
+64,731,2014,"Year 3","Grammar and Punctuation","No","High exposure",239,0.468619246861925,934,-35.3400639127702,16.4976123922152
+64,732,2015,"Year 3","Grammar and Punctuation","No","High exposure",221,0.484162895927602,979,-29.5323265533402,15.4872791197202
+64,733,2016,"Year 3","Grammar and Punctuation","No","High exposure",216,0.527777777777778,983,-30.0183631446097,14.9839821814495
+64,734,2017,"Year 3","Grammar and Punctuation","No","High exposure",208,0.509615384615385,983,4.09193916075296,18.3293176621057
+64,735,2018,"Year 3","Grammar and Punctuation","No","High exposure",214,0.5,980,-1.16850133465246,14.251440931912
+64,723,2008,"Year 5","Grammar and Punctuation","No","High exposure",274,0.532846715328467,979,10.1102171021373,14.0716879775347
+64,724,2009,"Year 5","Grammar and Punctuation","No","High exposure",269,0.472118959107807,979,9.49645397512582,14.1148182465396
+64,725,2010,"Year 5","Grammar and Punctuation","No","High exposure",260,0.473076923076923,992,1.22684719793146,13.791013566779
+64,726,2011,"Year 5","Grammar and Punctuation","No","High exposure",242,0.466942148760331,994,-14.4523336724144,14.061906107711
+64,727,2012,"Year 5","Grammar and Punctuation","No","High exposure",238,0.449579831932773,984,-23.8747366758515,13.8038804249451
+64,728,2013,"Year 5","Grammar and Punctuation","No","High exposure",236,0.48728813559322,942,5.93263206687247,14.3562239091383
+64,729,2014,"Year 5","Grammar and Punctuation","No","High exposure",239,0.468619246861925,934,-46.2630064772991,16.7856201739843
+64,730,2015,"Year 5","Grammar and Punctuation","No","High exposure",221,0.484162895927602,979,-7.01077833276276,12.9495467468641
+64,731,2016,"Year 5","Grammar and Punctuation","No","High exposure",216,0.527777777777778,983,-10.1737634790975,17.1613407695318
+64,732,2017,"Year 5","Grammar and Punctuation","No","High exposure",208,0.509615384615385,983,-13.4724403596025,15.1998558465617
+64,733,2018,"Year 5","Grammar and Punctuation","No","High exposure",214,0.5,980,-13.9203605339427,15.7499040689132
+65,738,2008,"Year 3","Grammar and Punctuation","No","No to low exposure",139,0.503597122302158,1028,11.0467888654046,21.4201021472062
+65,739,2009,"Year 3","Grammar and Punctuation","No","No to low exposure",141,0.49645390070922,1028,-10.7368510185189,21.273734668877
+65,740,2010,"Year 3","Grammar and Punctuation","No","No to low exposure",137,0.503649635036496,1018,28.9202830685809,18.207781725222
+65,741,2011,"Year 3","Grammar and Punctuation","No","No to low exposure",141,0.48936170212766,1018,17.8286118501791,21.2640051502512
+65,742,2012,"Year 3","Grammar and Punctuation","No","No to low exposure",162,0.462962962962963,1012,-26.729568797146,15.1270689205483
+65,743,2013,"Year 3","Grammar and Punctuation","No","No to low exposure",183,0.469945355191257,1024,-20.2978359444525,20.9670593966129
+65,744,2014,"Year 3","Grammar and Punctuation","No","No to low exposure",174,0.419540229885057,1015,-9.63953523871106,21.2262964841197
+65,745,2015,"Year 3","Grammar and Punctuation","No","No to low exposure",164,0.414634146341463,1016,-20.9117910606258,16.3688485430627
+65,746,2016,"Year 3","Grammar and Punctuation","No","No to low exposure",159,0.421383647798742,1013,-3.60357480705098,16.7605616892176
+65,747,2017,"Year 3","Grammar and Punctuation","No","No to low exposure",153,0.450980392156863,1015,9.79423486821194,18.1678827328924
+65,748,2018,"Year 3","Grammar and Punctuation","No","No to low exposure",147,0.489795918367347,1033,53.3002594331542,20.8972675158656
+65,736,2008,"Year 5","Grammar and Punctuation","No","No to low exposure",139,0.503597122302158,1028,-23.4765356977629,19.7384522251127
+65,737,2009,"Year 5","Grammar and Punctuation","No","No to low exposure",141,0.49645390070922,1028,0.97371614794196,16.7316402889368
+65,738,2010,"Year 5","Grammar and Punctuation","No","No to low exposure",137,0.503649635036496,1018,-1.47540128613167,19.1232590096172
+65,739,2011,"Year 5","Grammar and Punctuation","No","No to low exposure",141,0.48936170212766,1018,13.7904160955547,19.6623965773765
+65,740,2012,"Year 5","Grammar and Punctuation","No","No to low exposure",162,0.462962962962963,1012,28.8323356946352,15.0035587382027
+65,741,2013,"Year 5","Grammar and Punctuation","No","No to low exposure",183,0.469945355191257,1024,-3.38591124495759,19.6643397774596
+65,742,2014,"Year 5","Grammar and Punctuation","No","No to low exposure",174,0.419540229885057,1015,2.79766912052877,14.0161707589511
+65,743,2015,"Year 5","Grammar and Punctuation","No","No to low exposure",164,0.414634146341463,1016,21.390658817898,20.0190202123837
+65,744,2016,"Year 5","Grammar and Punctuation","No","No to low exposure",159,0.421383647798742,1013,5.8208566803044,19.7405106205223
+65,745,2017,"Year 5","Grammar and Punctuation","No","No to low exposure",153,0.450980392156863,1015,-9.07169252079659,19.5868689690609
+65,746,2018,"Year 5","Grammar and Punctuation","No","No to low exposure",147,0.489795918367347,1033,-0.668268393617328,15.5048235473552
+66,751,2008,"Year 3","Grammar and Punctuation","No","No to low exposure",210,0.504761904761905,1020,-32.9756276323659,16.5563907175479
+66,752,2009,"Year 3","Grammar and Punctuation","No","No to low exposure",233,0.484978540772532,1020,30.3147794511258,14.9807890189336
+66,753,2010,"Year 3","Grammar and Punctuation","No","No to low exposure",241,0.427385892116183,1020,27.6203355403745,18.2965606511878
+66,754,2011,"Year 3","Grammar and Punctuation","No","No to low exposure",292,0.452054794520548,1020,-26.8855127884818,16.5371939025329
+66,755,2012,"Year 3","Grammar and Punctuation","No","No to low exposure",342,0.514619883040936,1010,22.060658598499,11.9259874018915
+66,756,2013,"Year 3","Grammar and Punctuation","No","No to low exposure",354,0.536723163841808,1005,-10.2943989437807,12.6341863319515
+66,757,2014,"Year 3","Grammar and Punctuation","No","No to low exposure",379,0.49868073878628,1005,14.8378621169423,10.6188780950537
+66,758,2015,"Year 3","Grammar and Punctuation","No","No to low exposure",375,0.514666666666667,1034,1.09705758950181,11.1050611171181
+66,759,2016,"Year 3","Grammar and Punctuation","No","No to low exposure",374,0.518716577540107,1034,0.427613540657574,12.159341601204
+66,760,2017,"Year 3","Grammar and Punctuation","No","No to low exposure",349,0.515759312320917,1034,3.93472403925143,11.2317103162238
+66,761,2018,"Year 3","Grammar and Punctuation","No","No to low exposure",320,0.515625,1032,12.3065496279639,13.178890047568
+66,749,2008,"Year 5","Grammar and Punctuation","No","No to low exposure",210,0.504761904761905,1020,23.6789751862659,13.6388142488395
+66,750,2009,"Year 5","Grammar and Punctuation","No","No to low exposure",233,0.484978540772532,1020,37.3149471628714,13.8442816219529
+66,751,2010,"Year 5","Grammar and Punctuation","No","No to low exposure",241,0.427385892116183,1020,-15.9502533747588,14.0998085847101
+66,752,2011,"Year 5","Grammar and Punctuation","No","No to low exposure",292,0.452054794520548,1020,5.85696268492722,13.1869541119528
+66,753,2012,"Year 5","Grammar and Punctuation","No","No to low exposure",342,0.514619883040936,1010,-0.619338210840363,13.9085717582779
+66,754,2013,"Year 5","Grammar and Punctuation","No","No to low exposure",354,0.536723163841808,1005,1.8473943228953,12.7551798382106
+66,755,2014,"Year 5","Grammar and Punctuation","No","No to low exposure",379,0.49868073878628,1005,7.15944868694046,12.1738825019845
+66,756,2015,"Year 5","Grammar and Punctuation","No","No to low exposure",375,0.514666666666667,1034,-7.75809516926122,11.4688229251344
+66,757,2016,"Year 5","Grammar and Punctuation","No","No to low exposure",374,0.518716577540107,1034,29.2839066967145,11.1662841745552
+66,758,2017,"Year 5","Grammar and Punctuation","No","No to low exposure",349,0.515759312320917,1034,-1.0825365845865,11.4338663155728
+66,759,2018,"Year 5","Grammar and Punctuation","No","No to low exposure",320,0.515625,1032,1.3942285926419,10.7890742363844
+67,764,2008,"Year 3","Grammar and Punctuation","No","Moderate exposure",153,0.503267973856209,1010,-29.0897897186354,14.9827663286332
+67,765,2009,"Year 3","Grammar and Punctuation","No","Moderate exposure",158,0.518987341772152,1010,-2.3216762675948,21.2461325071379
+67,766,2010,"Year 3","Grammar and Punctuation","No","Moderate exposure",163,0.484662576687117,973,22.1721752358262,18.4317741523438
+67,767,2011,"Year 3","Grammar and Punctuation","No","Moderate exposure",169,0.502958579881657,974,11.9836220181949,17.9901853154068
+67,768,2012,"Year 3","Grammar and Punctuation","No","Moderate exposure",159,0.465408805031447,971,-22.2891684245493,18.3346681232954
+67,769,2013,"Year 3","Grammar and Punctuation","No","Moderate exposure",136,0.5,963,0.867155774740502,20.8106165763402
+67,770,2014,"Year 3","Grammar and Punctuation","No","Moderate exposure",119,0.512605042016807,963,-13.3393629171907,18.1433041244459
+67,771,2015,"Year 3","Grammar and Punctuation","No","Moderate exposure",111,0.504504504504504,969,-23.1927532338921,21.462226421651
+67,772,2016,"Year 3","Grammar and Punctuation","No","Moderate exposure",102,0.441176470588235,983,-14.9455603046801,27.1762118180871
+67,773,2017,"Year 3","Grammar and Punctuation","No","Moderate exposure",100,0.42,989,0.364615807733895,23.3343650364288
+67,774,2018,"Year 3","Grammar and Punctuation","No","Moderate exposure",101,0.405940594059406,981,-46.8379386690279,25.3323835296549
+67,762,2008,"Year 5","Grammar and Punctuation","No","Moderate exposure",153,0.503267973856209,1010,24.7107238052562,13.7889263243802
+67,763,2009,"Year 5","Grammar and Punctuation","No","Moderate exposure",158,0.518987341772152,1010,7.29752837809892,19.7648046776134
+67,764,2010,"Year 5","Grammar and Punctuation","No","Moderate exposure",163,0.484662576687117,973,-19.4603165932919,13.8341793905982
+67,765,2011,"Year 5","Grammar and Punctuation","No","Moderate exposure",169,0.502958579881657,974,-28.3327552761357,19.5655991248834
+67,766,2012,"Year 5","Grammar and Punctuation","No","Moderate exposure",159,0.465408805031447,971,-14.2858892250758,17.3483241398256
+67,767,2013,"Year 5","Grammar and Punctuation","No","Moderate exposure",136,0.5,963,-6.17797946239107,16.743514709383
+67,768,2014,"Year 5","Grammar and Punctuation","No","Moderate exposure",119,0.512605042016807,963,-35.7153098104801,20.06655835688
+67,769,2015,"Year 5","Grammar and Punctuation","No","Moderate exposure",111,0.504504504504504,969,-50.9886786114508,21.3179404503304
+67,770,2016,"Year 5","Grammar and Punctuation","No","Moderate exposure",102,0.441176470588235,983,-6.45945804285571,19.4406650537001
+67,771,2017,"Year 5","Grammar and Punctuation","No","Moderate exposure",100,0.42,989,-23.3414299631338,20.5054687186543
+67,772,2018,"Year 5","Grammar and Punctuation","No","Moderate exposure",101,0.405940594059406,981,-1.90890324720762,26.7681670257528
+68,777,2008,"Year 3","Grammar and Punctuation","No","Moderate exposure",409,0.440097799511002,1038,22.9116747867932,10.8569753964382
+68,778,2009,"Year 3","Grammar and Punctuation","No","Moderate exposure",425,0.447058823529412,1038,8.1148521181822,11.4374016375445
+68,779,2010,"Year 3","Grammar and Punctuation","No","Moderate exposure",427,0.451990632318501,1024,-21.6747737218261,11.5288574480011
+68,780,2011,"Year 3","Grammar and Punctuation","No","Moderate exposure",472,0.483050847457627,1028,36.6590928868203,10.9081315286921
+68,781,2012,"Year 3","Grammar and Punctuation","No","Moderate exposure",458,0.495633187772926,1022,15.6796819864149,9.80942483632523
+68,782,2013,"Year 3","Grammar and Punctuation","No","Moderate exposure",437,0.489702517162471,1014,2.89987351380078,11.3438066341992
+68,783,2014,"Year 3","Grammar and Punctuation","No","Moderate exposure",479,0.53027139874739,1012,-5.64302869475691,9.79718930659144
+68,784,2015,"Year 3","Grammar and Punctuation","No","Moderate exposure",483,0.538302277432712,1021,27.7571787693483,10.841328124566
+68,785,2016,"Year 3","Grammar and Punctuation","No","Moderate exposure",494,0.530364372469636,1020,7.94167430064855,10.9380376556006
+68,786,2017,"Year 3","Grammar and Punctuation","No","Moderate exposure",481,0.546777546777547,1029,14.4067398533232,10.0452605051372
+68,787,2018,"Year 3","Grammar and Punctuation","No","Moderate exposure",482,0.533195020746888,1022,5.08193051037685,10.9103335779555
+68,775,2008,"Year 5","Grammar and Punctuation","No","Moderate exposure",409,0.440097799511002,1038,8.10746241727388,11.0359091291587
+68,776,2009,"Year 5","Grammar and Punctuation","No","Moderate exposure",425,0.447058823529412,1038,13.467878399679,10.9900151815472
+68,777,2010,"Year 5","Grammar and Punctuation","No","Moderate exposure",427,0.451990632318501,1024,7.69129887297028,10.2156971909412
+68,778,2011,"Year 5","Grammar and Punctuation","No","Moderate exposure",472,0.483050847457627,1028,12.7546104022302,11.8067265095856
+68,779,2012,"Year 5","Grammar and Punctuation","No","Moderate exposure",458,0.495633187772926,1022,-4.7556514192873,10.9470359669176
+68,780,2013,"Year 5","Grammar and Punctuation","No","Moderate exposure",437,0.489702517162471,1014,18.8606136312196,10.1465512711885
+68,781,2014,"Year 5","Grammar and Punctuation","No","Moderate exposure",479,0.53027139874739,1012,12.7734313769227,10.0347916108322
+68,782,2015,"Year 5","Grammar and Punctuation","No","Moderate exposure",483,0.538302277432712,1021,4.04245724538296,10.3291362375545
+68,783,2016,"Year 5","Grammar and Punctuation","No","Moderate exposure",494,0.530364372469636,1020,-3.83180484708429,9.08836709579887
+68,784,2017,"Year 5","Grammar and Punctuation","No","Moderate exposure",481,0.546777546777547,1029,56.1468722941676,10.8541940305634
+68,785,2018,"Year 5","Grammar and Punctuation","No","Moderate exposure",482,0.533195020746888,1022,10.7461559023469,11.0157975331449
+69,803,2008,"Year 3","Grammar and Punctuation","No","No to low exposure",957,0.510971786833856,1058,-5.64972280648269,16.3698102113239
+69,804,2009,"Year 3","Grammar and Punctuation","No","No to low exposure",984,0.508130081300813,1058,44.0506403916186,13.8584920330043
+69,805,2010,"Year 3","Grammar and Punctuation","No","No to low exposure",1018,0.519646365422397,1044,37.4519311486497,11.9235224416988
+69,806,2011,"Year 3","Grammar and Punctuation","No","No to low exposure",1025,0.51219512195122,1132,25.3527059470662,11.9804715338324
+69,807,2012,"Year 3","Grammar and Punctuation","No","No to low exposure",999,0.505505505505506,1119,24.1160104603608,11.6090054299043
+69,808,2013,"Year 3","Grammar and Punctuation","No","No to low exposure",912,0.518640350877193,1102,43.8661543098864,12.4075579327544
+69,809,2014,"Year 3","Grammar and Punctuation","No","No to low exposure",907,0.528114663726571,1106,27.4523115040487,11.8926233073025
+69,810,2015,"Year 3","Grammar and Punctuation","No","No to low exposure",924,0.512987012987013,1104,60.2191346443723,11.5036992000355
+69,811,2016,"Year 3","Grammar and Punctuation","No","No to low exposure",921,0.512486427795874,1108,58.7949550168797,14.677759188526
+69,812,2017,"Year 3","Grammar and Punctuation","No","No to low exposure",937,0.514407684098186,1103,47.7990720229977,12.1298881355018
+69,813,2018,"Year 3","Grammar and Punctuation","No","No to low exposure",959,0.504692387904067,1101,21.5003447110512,10.9279418943167
+69,801,2008,"Year 5","Grammar and Punctuation","No","No to low exposure",957,0.510971786833856,1058,10.4172787855339,11.3777631722311
+69,802,2009,"Year 5","Grammar and Punctuation","No","No to low exposure",984,0.508130081300813,1058,15.6109797207003,11.1524018109487
+69,803,2010,"Year 5","Grammar and Punctuation","No","No to low exposure",1018,0.519646365422397,1044,48.9962297825366,12.1436952458677
+69,804,2011,"Year 5","Grammar and Punctuation","No","No to low exposure",1025,0.51219512195122,1132,38.7342577284046,11.5734992998532
+69,805,2012,"Year 5","Grammar and Punctuation","No","No to low exposure",999,0.505505505505506,1119,37.0308799725972,11.1378225417656
+69,806,2013,"Year 5","Grammar and Punctuation","No","No to low exposure",912,0.518640350877193,1102,22.4989601394478,11.3438435734549
+69,807,2014,"Year 5","Grammar and Punctuation","No","No to low exposure",907,0.528114663726571,1106,41.8239708399275,11.9899778407472
+69,808,2015,"Year 5","Grammar and Punctuation","No","No to low exposure",924,0.512987012987013,1104,70.1785744002562,10.6525669747688
+69,809,2016,"Year 5","Grammar and Punctuation","No","No to low exposure",921,0.512486427795874,1108,44.6021917521345,11.641203134607
+69,810,2017,"Year 5","Grammar and Punctuation","No","No to low exposure",937,0.514407684098186,1103,49.4258123322871,10.5532950072339
+69,811,2018,"Year 5","Grammar and Punctuation","No","No to low exposure",959,0.504692387904067,1101,23.1304888238224,11.4269707124538
+69,790,2008,"Year 7","Grammar and Punctuation","No","No to low exposure",957,0.510971786833856,1058,41.8154369741423,7.25716992157409
+69,791,2009,"Year 7","Grammar and Punctuation","No","No to low exposure",984,0.508130081300813,1058,47.8613328432848,7.41374437866281
+69,792,2010,"Year 7","Grammar and Punctuation","No","No to low exposure",1018,0.519646365422397,1044,36.1206643879108,7.93171761395079
+69,793,2011,"Year 7","Grammar and Punctuation","No","No to low exposure",1025,0.51219512195122,1132,38.9672508182148,7.1214895258835
+69,794,2012,"Year 7","Grammar and Punctuation","No","No to low exposure",999,0.505505505505506,1119,43.9883078271143,8.69066685694208
+69,795,2013,"Year 7","Grammar and Punctuation","No","No to low exposure",912,0.518640350877193,1102,35.8892786033434,8.20784824083644
+69,796,2014,"Year 7","Grammar and Punctuation","No","No to low exposure",907,0.528114663726571,1106,37.805437015467,8.06898686767804
+69,797,2015,"Year 7","Grammar and Punctuation","No","No to low exposure",924,0.512987012987013,1104,38.66524458965,7.90354907881441
+69,798,2016,"Year 7","Grammar and Punctuation","No","No to low exposure",921,0.512486427795874,1108,40.3514726180809,7.49106685372297
+69,799,2017,"Year 7","Grammar and Punctuation","No","No to low exposure",937,0.514407684098186,1103,43.168419445837,8.32626460128789
+69,800,2018,"Year 7","Grammar and Punctuation","No","No to low exposure",959,0.504692387904067,1101,48.6096456301824,8.38387410924224
+69,788,2008,"Year 9","Grammar and Punctuation","No","No to low exposure",957,0.510971786833856,1058,34.9354845617558,7.21894742119551
+69,789,2009,"Year 9","Grammar and Punctuation","No","No to low exposure",984,0.508130081300813,1058,33.0912562402688,7.01328621275675
+69,790,2010,"Year 9","Grammar and Punctuation","No","No to low exposure",1018,0.519646365422397,1044,30.3463807194646,7.63935745434817
+69,791,2011,"Year 9","Grammar and Punctuation","No","No to low exposure",1025,0.51219512195122,1132,42.7829967070609,7.43619575627282
+69,792,2012,"Year 9","Grammar and Punctuation","No","No to low exposure",999,0.505505505505506,1119,25.2886198127015,7.03822373179947
+69,793,2013,"Year 9","Grammar and Punctuation","No","No to low exposure",912,0.518640350877193,1102,44.3964393754792,7.61527913328549
+69,794,2014,"Year 9","Grammar and Punctuation","No","No to low exposure",907,0.528114663726571,1106,41.29807607634,8.74392445413201
+69,795,2015,"Year 9","Grammar and Punctuation","No","No to low exposure",924,0.512987012987013,1104,41.4178786453716,7.19572090680331
+69,796,2016,"Year 9","Grammar and Punctuation","No","No to low exposure",921,0.512486427795874,1108,24.0833094103471,7.78845031346753
+69,797,2017,"Year 9","Grammar and Punctuation","No","No to low exposure",937,0.514407684098186,1103,33.3671541043341,7.06266780240722
+69,798,2018,"Year 9","Grammar and Punctuation","No","No to low exposure",959,0.504692387904067,1101,27.065567586157,6.76236947581851
+70,816,2017,"Year 3","Grammar and Punctuation","Yes","High exposure",412,0.495145631067961,895,-56.8085364811104,12.954204626861
+70,817,2018,"Year 3","Grammar and Punctuation","Yes","High exposure",406,0.504926108374384,883,-55.4603533035732,13.2780265245969
+70,814,2017,"Year 5","Grammar and Punctuation","Yes","High exposure",412,0.495145631067961,895,-42.8798536759785,10.7706059110731
+70,815,2018,"Year 5","Grammar and Punctuation","Yes","High exposure",406,0.504926108374384,883,-63.5779448658373,12.1580093668238
